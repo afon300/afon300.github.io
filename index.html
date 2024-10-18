@@ -1,1 +1,54 @@
-Hello World
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Utilisation de l'API de Twitter - Bot Automatique</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Créer un Bot Twitter avec l'API de Twitter</h1>
+    </header>
+
+    <section class="description">
+        <h2>Objectif du Projet</h2>
+        <p>Le but de ce projet est de développer un bot capable de publier automatiquement des tweets en utilisant l'API de Twitter. Ce bot pourrait tweeter des messages à des intervalles réguliers ou en réponse à des événements spécifiques.</p>
+    </section>
+
+    <section class="etapes">
+        <h2>Étapes de Création du Bot Twitter</h2>
+        <ol>
+            <li><strong>Créer un compte développeur Twitter :</strong> Il est nécessaire de créer un compte développeur sur Twitter pour accéder à l'API.</li>
+            <li><strong>Obtenir les clés API :</strong> Après avoir créé une application Twitter, vous devrez récupérer les clés API, les tokens d'accès, et les informations d'identification.</li>
+            <li><strong>Utiliser une bibliothèque Python :</strong> Utilisez une bibliothèque comme <code>Tweepy</code> pour interagir facilement avec l'API de Twitter et automatiser les tweets.</li>
+            <li><strong>Automatiser les tweets :</strong> Une fois les clés API obtenues et le script configuré, le bot peut tweeter des messages automatiquement.</li>
+        </ol>
+    </section>
+
+    <section class="exemple-code">
+        <h2>Exemple de Code avec Python et Tweepy</h2>
+        <pre>
+            <code>
+import tweepy
+
+# Authentification avec les clés API Twitter
+auth = tweepy.OAuthHandler('consumer_key', 'consumer_secret')
+auth.set_access_token('access_token', 'access_token_secret')
+api = tweepy.API(auth)
+
+# Fonction pour tweeter automatiquement
+def tweet_auto(message):
+    api.update_status(message)
+
+# Exemple d'utilisation
+tweet_auto("Ceci est un tweet automatique !")
+            </code>
+        </pre>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Projet Bot Twitter</p>
+    </footer>
+</body>
+</html>
