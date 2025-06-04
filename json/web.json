@@ -1,0 +1,573 @@
+[
+    {
+      "id": "web_html_01",
+      "question": "Que signifie l'acronyme HTML ? [cite: 3]",
+      "options": [
+        "HyperText Markup Language",
+        "HighText Machine Language",
+        "HyperTransfer Markup Language",
+        "HyperText Machine Lingo"
+      ],
+      "correctAnswer": "HyperText Markup Language",
+      "sourceFile": "3- HTML.pdf"
+    },
+    {
+      "id": "web_html_02",
+      "question": "Quel est le rôle principal du W3C (World Wide Web Consortium) ? [cite: 6]",
+      "options": [
+        "Développer des navigateurs web",
+        "Standardiser les technologies web comme HTML et CSS",
+        "Héberger des sites web",
+        "Vendre des noms de domaine"
+      ],
+      "correctAnswer": "Standardiser les technologies web comme HTML et CSS",
+      "sourceFile": "3- HTML.pdf"
+    },
+    {
+        "id": "web_html_03",
+        "question": "Quelle est la déclaration DOCTYPE correcte et simplifiée pour HTML5 ?",
+        "options": [
+          "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\">",
+          "<!DOCTYPE html>",
+          "<!DOCTYPE xhtml 1.0 strict>",
+          "<!doctype html5>"
+        ],
+        "correctAnswer": "<!DOCTYPE html>",
+        "sourceFile": "3 - HTML.pdf"
+    },
+    {
+      "id": "web_html_04",
+      "question": "Où doit être placée la déclaration DOCTYPE dans un document HTML ? [cite: 23]",
+      "options": [
+        "À l'intérieur de la balise `<head>`",
+        "Avant la balise `<html>`",
+        "Après la balise `<body>`",
+        "À l'intérieur de la balise `<footer>`"
+      ],
+      "correctAnswer": "Avant la balise `<html>`",
+      "sourceFile": "3- HTML.pdf"
+    },
+    {
+      "id": "web_html_05",
+      "question": "Quelle est la fonction de la balise HTML `<meta charset=\"utf-8\">` ? [cite: 27]",
+      "options": [
+        "Définir la couleur de fond",
+        "Définir le titre du document",
+        "Fixer le jeu de caractères à UTF-8 pour un affichage correct des caractères spéciaux",
+        "Lier un fichier CSS"
+      ],
+      "correctAnswer": "Fixer le jeu de caractères à UTF-8 pour un affichage correct des caractères spéciaux",
+      "sourceFile": "3- HTML.pdf"
+    },
+    {
+      "id": "web_html_06",
+      "question": "Quelle balise HTML est utilisée pour le titre le plus important d'une page ? [cite: 32]",
+      "options": ["<h1>", "<h6>", "<head>", "<title>"],
+      "correctAnswer": "<h1>",
+      "sourceFile": "3- HTML.pdf"
+    },
+    {
+      "id": "web_html_07",
+      "question": "Dans la balise HTML `<img>`, quel attribut est utilisé pour spécifier le chemin vers le fichier image ? [cite: 39]",
+      "options": ["link", "href", "src", "alt"],
+      "correctAnswer": "src",
+      "sourceFile": "3- HTML.pdf"
+    },
+    {
+      "id": "web_html_08",
+      "question": "Quelle est la fonction de l'attribut `alt` dans une balise `<img>` ? [cite: 39]",
+      "options": [
+        "Définir l'alignement de l'image",
+        "Fournir un texte alternatif si l'image ne peut pas être affichée",
+        "Définir la largeur de l'image",
+        "Créer un hyperlien"
+      ],
+      "correctAnswer": "Fournir un texte alternatif si l'image ne peut pas être affichée",
+      "sourceFile": "3- HTML.pdf"
+    },
+    {
+      "id": "web_html_09",
+      "question": "Quelle balise HTML est utilisée pour créer une liste non ordonnée (à puces) ? [cite: 41]",
+      "options": ["<ol>", "<ul>", "<li>", "<dl>"],
+      "correctAnswer": "<ul>",
+      "sourceFile": "3- HTML.pdf"
+    },
+    {
+      "id": "web_html_10",
+      "question": "Quelle balise HTML est utilisée pour créer un hyperlien ? [cite: 41]",
+      "options": ["<link>", "<a>", "<href>", "<nav>"],
+      "correctAnswer": "<a>",
+      "sourceFile": "3- HTML.pdf"
+    },
+    {
+      "id": "web_html_11",
+      "question": "Quelle balise HTML est utilisée pour définir une ligne de tableau ? [cite: 43, 44]",
+      "options": [
+        "<td>",
+        "<table>",  
+        "<th>",
+        "<tr>"
+        ],
+      "correctAnswer": "<tr>",
+      "sourceFile": "3- HTML.pdf"
+    },
+    {
+      "id": "web_html_12",
+      "question": "Quelle balise sémantique HTML5 est typiquement utilisée pour représenter un contenu introductif ou des aides à la navigation pour un document ou une section ? [cite: 47, 48]",
+      "options": ["<main>", "<footer>", "<header>", "<aside>"],
+      "correctAnswer": "<header>",
+      "sourceFile": "3- HTML.pdf"
+    },
+    {
+      "id": "web_html_13",
+      "question": "Quelle balise HTML5 représente une composition autonome dans un document, destinée à être distribuée ou réutilisée de manière indépendante (par exemple, un article de blog) ? [cite: 51]",
+      "options": ["<section>", "<aside>", "<article>", "<details>"],
+      "correctAnswer": "<article>",
+      "sourceFile": "3- HTML.pdf"
+    },
+    {
+      "id": "web_html_14",
+      "question": "Quelle balise HTML5 est utilisée pour intégrer directement du contenu vidéo dans une page web ? [cite: 55]",
+      "options": ["<media>", "<movie>", "<video>", "<source>"],
+      "correctAnswer": "<video>",
+      "sourceFile": "3- HTML.pdf"
+    },
+    {
+      "id": "web_html_15",
+      "question": "Quel est le but principal de la balise HTML `<div>` ? [cite: 59, 61]",
+      "options": [
+        "Créer un hyperlien",
+        "Afficher une image",
+        "Définir un paragraphe",
+        "Agir comme un conteneur générique pour grouper du contenu pour le style ou le script"
+      ],
+      "correctAnswer": "Agir comme un conteneur générique pour grouper du contenu pour le style ou le script",
+      "sourceFile": "3- HTML.pdf"
+    },
+    {
+      "id": "web_html_16",
+      "question": "Quelle balise HTML est utilisée pour créer un contrôle interactif dans un formulaire web pour la saisie de l'utilisateur, comme un champ de texte ou une case à cocher ? [cite: 63]",
+      "options": ["<form>", "<label>", "<input>", "<fieldset>"],
+      "correctAnswer": "<input>",
+      "sourceFile": "3- HTML.pdf"
+    },
+    {
+      "id": "web_html_17",
+      "question": "Pour créer un champ de saisie de texte sur une seule ligne dans un formulaire HTML, quel attribut `type` est utilisé avec la balise `<input>` ? [cite: 65]",
+      "options": ["type=\"textfield\"", "type=\"text\"", "type=\"string\"", "type=\"line\""],
+      "correctAnswer": "type=\"text\"",
+      "sourceFile": "3- HTML.pdf"
+    },
+    {
+      "id": "web_html_18",
+      "question": "Quel élément HTML est utilisé pour grouper plusieurs contrôles ainsi que des étiquettes (`<label>`) dans un formulaire web ? [cite: 67]",
+      "options": ["<div>", "<section>", "<group>", "<fieldset>"],
+      "correctAnswer": "<fieldset>",
+      "sourceFile": "3- HTML.pdf"
+    },
+    {
+      "id": "web_html_19",
+      "question": "Quel élément sémantique HTML5 est utilisé pour un contenu qui est secondairement lié au contenu principal de la page, comme une barre latérale ? [cite: 69]",
+      "options": ["<article>", "<section>", "<footer>", "<aside>"],
+      "correctAnswer": "<aside>",
+      "sourceFile": "3- HTML.pdf"
+    },
+    {
+      "id": "web_html_20",
+      "question": "Lesquelles sont les deux parties principales d'un document HTML de base, imbriquées dans la balise `<html>` ? [cite: 27]",
+      "options": [
+        "`<header>` et `<footer>`",
+        "`<head>` et `<body>`",
+        "`<main>` et `<aside>`",
+        "`<nav>` et `<article>`"
+      ],
+      "correctAnswer": "`<head>` et `<body>`",
+      "sourceFile": "3- HTML.pdf"
+    },
+    {
+      "id": "web_css_01",
+      "question": "Quel est le rôle principal de CSS (Cascading Style Sheets) dans le développement web ? [cite: 78]",
+      "options": [
+        "Structurer le contenu d'une page web",
+        "Gérer les interactions utilisateur et le contenu dynamique",
+        "Gérer les opérations côté serveur",
+        "Styliser et gérer la présentation et la mise en page d'une page web"
+      ],
+      "correctAnswer": "Styliser et gérer la présentation et la mise en page d'une page web",
+      "sourceFile": "4- CSS_Partie2.pdf"
+    },
+    {
+      "id": "web_css_02",
+      "question": "Quelle est la manière recommandée d'inclure du CSS pour un site web ? [cite: 79]",
+      "options": [
+        "Directement dans les balises HTML en utilisant l'attribut `style`",
+        "Dans la section `<head>` en utilisant la balise `<style>`",
+        "Dans un fichier `.css` externe",
+        "Dans un fichier JavaScript"
+      ],
+      "correctAnswer": "Dans un fichier `.css` externe",
+      "sourceFile": "4- CSS_Partie2.pdf"
+    },
+    {
+      "id": "web_css_03",
+      "question": "Quelle balise HTML est utilisée pour lier un fichier CSS externe à un document HTML ? [cite: 81]",
+      "options": ["<style>", "<css>", "<link>", "<script>"],
+      "correctAnswer": "<link>",
+      "sourceFile": "4- CSS_Partie2.pdf"
+    },
+    {
+      "id": "web_css_04",
+      "question": "Dans la syntaxe CSS `h1 {color: blue;}`, que représente `color` ? [cite: 87, 91]",
+      "options": ["Sélecteur", "Valeur", "Propriété", "Déclaration"],
+      "correctAnswer": "Propriété",
+      "sourceFile": "4- CSS_Partie2.pdf"
+    },
+    {
+      "id": "web_css_05",
+      "question": "Comment sont séparées plusieurs déclarations CSS à l'intérieur d'un bloc de règles ? [cite: 95]",
+      "options": ["Avec des virgules", "Avec des points-virgules", "Avec des deux-points", "Avec des espaces"],
+      "correctAnswer": "Avec des points-virgules",
+      "sourceFile": "4- CSS_Partie2.pdf"
+    },
+    {
+      "id": "web_css_06",
+      "question": "Quelle propriété CSS est utilisée pour changer la couleur du texte d'un élément ? [cite: 98]",
+      "options": ["font-color", "text-style", "color", "text-decoration"],
+      "correctAnswer": "color",
+      "sourceFile": "4- CSS_Partie2.pdf"
+    },
+    {
+      "id": "web_css_07",
+      "question": "Dans le modèle de boîte CSS, comment s'appelle l'espace entre la zone de contenu et la bordure ? [cite: 101]",
+      "options": ["Margin", "Padding", "Outline", "Spacing"],
+      "correctAnswer": "Padding",
+      "sourceFile": "4- CSS_Partie2.pdf"
+    },
+    {
+      "id": "web_css_08",
+      "question": "Comment s'écrit un sélecteur de classe CSS ? [cite: 102, 105]",
+      "options": ["#className", ".className", "className", "*className"],
+      "correctAnswer": ".className",
+      "sourceFile": "4- CSS_Partie2.pdf"
+    },
+    {
+      "id": "web_css_09",
+      "question": "Comment s'écrit un sélecteur d'ID CSS ? [cite: 103, 105]",
+      "options": [".idName", "idName", "*idName", "#idName"],
+      "correctAnswer": "#idName",
+      "sourceFile": "4- CSS_Partie2.pdf"
+    },
+    {
+      "id": "web_css_10",
+      "question": "En CSS, que sélectionne le combinateur de frère général `~` (par exemple, `h1 ~ p`) ? [cite: 106]",
+      "options": [
+        "Tous les éléments `<p>` qui sont enfants de `<h1>`",
+        "Tous les éléments `<p>` qui sont descendants de `<h1>`",
+        "Tous les éléments `<p>` qui sont frères suivant un `<h1>` et partagent le même parent",
+        "Seulement le premier élément `<p>` suivant immédiatement un `<h1>`"
+      ],
+      "correctAnswer": "Tous les éléments `<p>` qui sont frères suivant un `<h1>` et partagent le même parent",
+      "sourceFile": "4- CSS_Partie2.pdf"
+    },
+    {
+      "id": "web_css_11",
+      "question": "Que sélectionne le combinateur de frère adjacent CSS `+` (par exemple, `h1 + p`) ? [cite: 110]",
+      "options": [
+        "Tous les éléments `<p>` qui sont frères de `<h1>`",
+        "N'importe quel élément `<p>` qui est un enfant de `<h1>`",
+        "L'élément `<p>` suivant immédiatement un `<h1>` s'ils sont frères",
+        "Tous les éléments `<p>` à l'intérieur d'un `<h1>`"
+      ],
+      "correctAnswer": "L'élément `<p>` suivant immédiatement un `<h1>` s'ils sont frères",
+      "sourceFile": "4- CSS_Partie2.pdf"
+    },
+    {
+      "id": "web_css_12",
+      "question": "Le combinateur d'enfant CSS `>` (par exemple, `ul > li`) sélectionne : [cite: 114]",
+      "options": [
+        "Tous les éléments `<li>` qui sont descendants de `<ul>`",
+        "Seulement les éléments `<li>` qui sont des enfants directs de `<ul>`",
+        "Tous les éléments `<ul>` qui sont enfants de `<li>`",
+        "Le premier élément `<li>` à l'intérieur d'un `<ul>`"
+      ],
+      "correctAnswer": "Seulement les éléments `<li>` qui sont des enfants directs de `<ul>`",
+      "sourceFile": "4- CSS_Partie2.pdf"
+    },
+    {
+      "id": "web_css_13",
+      "question": "Si deux règles CSS ont la même spécificité et ciblent le même élément, quelle règle est appliquée ? [cite: 123]",
+      "options": [
+        "Celle avec `!important`",
+        "Celle qui apparaît en premier dans la feuille de style",
+        "Celle qui apparaît en dernier dans la feuille de style",
+        "Aucune, cela cause une erreur"
+      ],
+      "correctAnswer": "Celle qui apparaît en dernier dans la feuille de style",
+      "sourceFile": "4- CSS_Partie2.pdf"
+    },
+    {
+      "id": "web_css_14",
+      "question": "En CSS, que fait le mot-clé `inherit` pour la valeur d'une propriété ? [cite: 130]",
+      "options": [
+        "Réinitialise la propriété à sa valeur initiale par défaut",
+        "Rend la valeur de la propriété de l'élément identique à celle de son élément parent pour cette propriété",
+        "Fait que la propriété ne s'applique pas aux éléments enfants",
+        "Supprime entièrement la propriété"
+      ],
+      "correctAnswer": "Rend la valeur de la propriété de l'élément identique à celle de son élément parent pour cette propriété",
+      "sourceFile": "4- CSS_Partie2.pdf"
+    },
+    {
+      "id": "web_css_15",
+      "question": "Quel est le but de la balise `<meta name=\"viewport\" ...>` en HTML pour le design responsive ? [cite: 140]",
+      "options": [
+        "Définir l'image de fond du site web",
+        "Contrôler les dimensions et l'échelle de la mise en page sur différents appareils",
+        "Définir le schéma de couleurs du site web",
+        "Lier des fichiers JavaScript"
+      ],
+      "correctAnswer": "Contrôler les dimensions et l'échelle de la mise en page sur différents appareils",
+      "sourceFile": "4- CSS_Partie2.pdf"
+    },
+    {
+      "id": "web_css_16",
+      "question": "Quel est le but principal des Media Queries CSS ? [cite: 142]",
+      "options": [
+        "Interroger des bases de données en utilisant CSS",
+        "Appliquer différents styles en fonction des caractéristiques de l'appareil comme la largeur de l'écran ou l'orientation",
+        "Animer les propriétés CSS",
+        "Valider le code CSS"
+      ],
+      "correctAnswer": "Appliquer différents styles en fonction des caractéristiques de l'appareil comme la largeur de l'écran ou l'orientation",
+      "sourceFile": "4- CSS_Partie2.pdf"
+    },
+    {
+      "id": "web_css_17",
+      "question": "Pour rendre un conteneur un conteneur flex en CSS, quelle valeur de propriété `display` est utilisée ? [cite: 145, 146]",
+      "options": ["display: block;", "display: inline;", "display: flex;", "display: grid;"],
+      "correctAnswer": "display: flex;",
+      "sourceFile": "4- CSS_Partie2.pdf"
+    },
+    {
+      "id": "web_js_01",
+      "question": "JavaScript est principalement connu comme le langage de script pour : [cite: 162]",
+      "options": ["Applications côté serveur", "Développement d'applications mobiles", "Pages Web", "Gestion de bases de données"],
+      "correctAnswer": "Pages Web",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_02",
+      "question": "JavaScript est-il un langage à typage statique ou dynamique ? [cite: 163]",
+      "options": ["Typage statique", "Typage dynamique", "Les deux", "Aucun des deux"],
+      "correctAnswer": "Typage dynamique",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_03",
+      "question": "Quelle balise HTML est utilisée pour intégrer ou lier du code JavaScript ? [cite: 170, 171]",
+      "options": ["<javascript>", "<script>", "<js>", "<code_script>"],
+      "correctAnswer": "<script>",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_04",
+      "question": "Comment sépare-t-on typiquement les instructions en JavaScript ? [cite: 173]",
+      "options": ["Par des virgules", "Uniquement par des sauts de ligne", "Par des points-virgules", "Par des deux-points"],
+      "correctAnswer": "Par des points-virgules",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_05",
+      "question": "Quel mot-clé est utilisé pour déclarer une variable en JavaScript avec une portée de bloc (introduit en ES6) ? [cite: 176]",
+      "options": ["var", "let", "const", "variable"],
+      "correctAnswer": "let",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_06",
+      "question": "Quel mot-clé est utilisé en JavaScript pour déclarer une variable dont la valeur ne peut pas être réassignée ? [cite: 177]",
+      "options": ["var", "let", "static", "const"],
+      "correctAnswer": "const",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_07",
+      "question": "En JavaScript, que vérifie l'opérateur `===` ? [cite: 184, 195]",
+      "options": ["Uniquement l'égalité de valeur", "Uniquement l'égalité de type", "L'égalité de valeur et de type", "Assigne une valeur"],
+      "correctAnswer": "L'égalité de valeur et de type",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_08",
+      "question": "Comment créez-vous un tableau vide en JavaScript ? [cite: 197]",
+      "options": ["let arr = ();", "let arr = {};", "let arr = [];", "let arr = new Array[];"],
+      "correctAnswer": "let arr = [];",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_09",
+      "question": "Quel mot-clé est utilisé pour définir une fonction en JavaScript ? [cite: 199]",
+      "options": ["function", "def", "fun", "method"],
+      "correctAnswer": "function",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_10",
+      "question": "Quel événement JavaScript est déclenché lorsqu'un utilisateur clique sur un élément HTML ? [cite: 205]",
+      "options": ["onmouseover", "onchange", "onclick", "onload"],
+      "correctAnswer": "onclick",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_11",
+      "question": "En JavaScript, que fait `document.getElementById('myId')` ? [cite: 211, 216]",
+      "options": [
+        "Crée un nouvel élément avec l'ID 'myId'",
+        "Retourne l'élément qui a l'ID 'myId'",
+        "Supprime l'élément avec l'ID 'myId'",
+        "Vérifie si un élément avec 'myId' existe"
+      ],
+      "correctAnswer": "Retourne l'élément qui a l'ID 'myId'",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_12",
+      "question": "Quelle méthode DOM JavaScript est utilisée pour créer un nouvel élément HTML (par exemple, un `<div>`) ? [cite: 216]",
+      "options": ["document.newElement()", "document.makeElement()", "document.createElement()", "document.buildElement()"],
+      "correctAnswer": "document.createElement()",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_13",
+      "question": "Quel est le but de la fonction JavaScript `setTimeout(myFunction, 5000);` ? [cite: 222, 224]",
+      "options": [
+        "Exécuter `myFunction` immédiatement 5000 fois",
+        "Mettre en pause toute l'exécution du script pendant 5 secondes",
+        "Exécuter `myFunction` après un délai de 5000 millisecondes (5 secondes)",
+        "Définir un délai de 5 secondes pour les requêtes réseau"
+      ],
+      "correctAnswer": "Exécuter `myFunction` après un délai de 5000 millisecondes (5 secondes)",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_14",
+      "question": "Quel est l'un des principaux avantages de l'utilisation des fonctions fléchées `() => {...}` en JavaScript par rapport aux expressions de fonction traditionnelles `function() {...}` ? [cite: 226]",
+      "options": [
+        "Elles s'exécutent plus rapidement",
+        "Elles offrent une syntaxe plus courte",
+        "Elles ne peuvent être utilisées que pour des opérations asynchrones",
+        "Elles ont leur propre liaison `this`"
+      ],
+      "correctAnswer": "Elles offrent une syntaxe plus courte",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_15",
+      "question": "Quel est le but de `element.addEventListener('click', myFunction);` en JavaScript ? [cite: 248, 250]",
+      "options": [
+        "Exécuter immédiatement `myFunction` lorsque la ligne est lue",
+        "Supprimer un écouteur d'événement de l'élément",
+        "Attacher `myFunction` pour qu'elle soit appelée lorsqu'un événement 'click' se produit sur 'element'",
+        "Vérifier si `myFunction` est un gestionnaire d'événement valide"
+      ],
+      "correctAnswer": "Attacher `myFunction` pour qu'elle soit appelée lorsqu'un événement 'click' se produit sur 'element'",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_16",
+      "question": "En JavaScript, qu'est-ce qu'une fonction de rappel (callback) ? [cite: 236]",
+      "options": [
+        "Une fonction qui appelle une autre fonction",
+        "Une fonction qui est appelée automatiquement lorsque le script se charge",
+        "Une fonction passée en argument à une autre fonction, pour être exécutée ultérieurement",
+        "Une fonction JavaScript intégrée pour la gestion des erreurs"
+      ],
+      "correctAnswer": "Une fonction passée en argument à une autre fonction, pour être exécutée ultérieurement",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_17",
+      "question": "L'API `fetch()` en JavaScript est utilisée pour : [cite: 243]",
+      "options": [
+        "Manipuler directement le DOM",
+        "Effectuer des requêtes réseau (par exemple, pour obtenir des données d'un serveur)",
+        "Définir des styles CSS",
+        "Stocker des données dans le stockage local"
+      ],
+      "correctAnswer": "Effectuer des requêtes réseau (par exemple, pour obtenir des données d'un serveur)",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_18",
+      "question": "Que retourne l'API `fetch()` ? [cite: 243]",
+      "options": ["Les données demandées directement", "Un booléen indiquant le succès ou l'échec", "Une Promesse (Promise)", "Un objet XMLHttpRequest"],
+      "correctAnswer": "Une Promesse (Promise)",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_19",
+      "question": "Quel est le but de `event.preventDefault()` dans un gestionnaire d'événements JavaScript ? [cite: 254, 255]",
+      "options": [
+        "Arrêter la propagation de l'événement dans l'arborescence DOM",
+        "Déclencher manuellement l'action par défaut de l'événement",
+        "Empêcher l'action par défaut du navigateur pour cet événement (par exemple, soumission de formulaire, navigation par lien)",
+        "Retarder la gestion de l'événement"
+      ],
+      "correctAnswer": "Empêcher l'action par défaut du navigateur pour cet événement (par exemple, soumission de formulaire, navigation par lien)",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_20",
+      "question": "Pour modifier le contenu textuel d'un élément HTML (par exemple, un `<p>`), quelle propriété JavaScript est généralement plus sûre à utiliser pour éviter les vulnérabilités XSS ? [cite: 263]",
+      "options": ["innerHTML", "textContent", "innerText", "outerHTML"],
+      "correctAnswer": "textContent",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_21",
+      "question": "Comment pouvez-vous créer un nouvel objet Date représentant la date et l'heure actuelles en JavaScript ? [cite: 266]",
+      "options": ["new Date;", "Date.now()", "Date.current()", "new Date();"],
+      "correctAnswer": "new Date();",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_22",
+      "question": "Dans une définition de classe ES6, quel est le nom de la méthode spéciale pour créer et initialiser un objet créé avec une classe ? [cite: 272]",
+      "options": ["init()", "main()", "constructor()", "create()"],
+      "correctAnswer": "constructor()",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_23",
+      "question": "Quelle méthode de tableau JavaScript ajoute un ou plusieurs éléments à la fin d'un tableau et retourne la nouvelle longueur du tableau ? [cite: 278]",
+      "options": ["pop()", "shift()", "concat()", "push()"],
+      "correctAnswer": "push()",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_24",
+      "question": "Que signifie JSON ? [cite: 301]",
+      "options": [
+        "JavaScript Online Notation",
+        "JavaScript Object Notation",
+        "Java Standard Object Notation",
+        "JavaScript Open Network"
+      ],
+      "correctAnswer": "JavaScript Object Notation",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_25",
+      "question": "Quelle méthode JavaScript est utilisée pour convertir un objet JavaScript en une chaîne JSON ? [cite: 304]",
+      "options": ["JSON.parse()", "JSON.toString()", "JSON.stringify()", "JSON.objectToString()"],
+      "correctAnswer": "JSON.stringify()",
+      "sourceFile": "Cours Javascript.pdf"
+    },
+    {
+      "id": "web_js_26",
+      "question": "Quelle méthode JavaScript est utilisée pour analyser une chaîne JSON et la convertir en un objet JavaScript ? [cite: 303]",
+      "options": ["JSON.toObject()", "JSON.parse()", "JSON.convert()", "JSON.stringToObject()"],
+      "correctAnswer": "JSON.parse()",
+      "sourceFile": "Cours Javascript.pdf"
+    }
+  ]
