@@ -1,0 +1,758 @@
+[
+    {
+      "id": "cm1_1_q1",
+      "question": "Quelle est la définition de l'économie donnée dans les éléments introductifs du cours ?",
+      "options": [
+        "L'étude de la manière dont les sociétés gèrent leurs finances publiques et leur monnaie.",
+        "L'étude des choix des agents économiques dans leur allocation de ressources limitées et des conséquences de ces derniers sur la société.",
+        "La science de la création de richesse et de la maximisation des profits des entreprises.",
+        "L'analyse des fluctuations des marchés boursiers et des investissements internationaux."
+      ],
+      "correctAnswer": "L'étude des choix des agents économiques dans leur allocation de ressources limitées et des conséquences de ces derniers sur la société.",
+      "sourceFile": "1_1_Eléments_introductifs-6.pdf"
+    },
+    {
+      "id": "cm1_1_q2",
+      "question": "Quels sont les deux groupes simplifiés d'agents économiques les plus souvent considérés en introduction ?",
+      "options": [
+        "Les gouvernements et les organisations internationales.",
+        "Les producteurs (ou entreprises) et les consommateurs (ou ménages).",
+        "Les banques et les institutions financières.",
+        "Les travailleurs et les investisseurs."
+      ],
+      "correctAnswer": "Les producteurs (ou entreprises) et les consommateurs (ou ménages).",
+      "sourceFile": "1_1_Eléments_introductifs-6.pdf"
+    },
+    {
+      "id": "cm1_1_q3",
+      "question": "Laquelle de ces problématiques relève principalement de la macroéconomie ?",
+      "options": [
+        "La fixation du prix d'un nouveau logiciel par une entreprise.",
+        "L'impact d'une taxe carbone sur les choix d'une aciérie.",
+        "L'étude des fluctuations à court terme de la production nationale autour de sa tendance.",
+        "La décision d'un ménage d'épargner pour sa retraite."
+      ],
+      "correctAnswer": "L'étude des fluctuations à court terme de la production nationale autour de sa tendance.",
+      "sourceFile": "1_1_Eléments_introductifs-6.pdf"
+    },
+    {
+      "id": "cm1_1_q4",
+      "question": "Quel est l'un des objets d'étude de la microéconomie ?",
+      "options": [
+        "Les politiques de taux d'intérêt des banques centrales.",
+        "Le taux de chômage global d'un pays.",
+        "L'effet des comportements individuels des agents économiques sur les prix et l'allocation des ressources.",
+        "La croissance économique mondiale."
+      ],
+      "correctAnswer": "L'effet des comportements individuels des agents économiques sur les prix et l'allocation des ressources.",
+      "sourceFile": "1_1_Eléments_introductifs-6.pdf"
+    },
+    {
+      "id": "cm1_1_q5",
+      "question": "En économie, que signifie le principe d'optimisation pour un agent économique ?",
+      "options": [
+        "Choisir l'option la moins chère en toutes circonstances.",
+        "Prendre des décisions rapidement sans analyse approfondie.",
+        "Choisir la meilleure option selon un critère mesurable donné et une quantité d'information disponible.",
+        "Maximiser ses gains à court terme, même au détriment du long terme."
+      ],
+      "correctAnswer": "Choisir la meilleure option selon un critère mesurable donné et une quantité d'information disponible.",
+      "sourceFile": "1_1_Eléments_introductifs-6.pdf"
+    },
+    {
+      "id": "cm1_1_q6",
+      "question": "Qu'est-ce qu'une situation d'équilibre en analyse économique ?",
+      "options": [
+        "Une situation où tous les agents économiques ont les mêmes revenus.",
+        "Une situation où les prix des biens et services ne changent plus.",
+        "Une situation où tous les agents optimisent leurs choix jusqu'à ce que personne n'ait plus intérêt à les modifier.",
+        "Une situation où l'intervention de l'État assure une répartition égale des ressources."
+      ],
+      "correctAnswer": "Une situation où tous les agents optimisent leurs choix jusqu'à ce que personne n'ait plus intérêt à les modifier.",
+      "sourceFile": "1_1_Eléments_introductifs-6.pdf"
+    },
+    {
+      "id": "cm1_1_q7",
+      "question": "Quelle est la distinction principale entre la causalité et la corrélation en économie ?",
+      "options": [
+        "La corrélation est un lien fort tandis que la causalité est un lien faible.",
+        "La causalité implique un lien statistique direct, la corrélation est une simple coïncidence.",
+        "La corrélation est un lien statistique sans implication de causalité directe, tandis que la causalité affirme qu'une variable agit sur une autre.",
+        "Les deux termes sont synonymes et utilisés de manière interchangeable."
+      ],
+      "correctAnswer": "La corrélation est un lien statistique sans implication de causalité directe, tandis que la causalité affirme qu'une variable agit sur une autre.",
+      "sourceFile": "1_1_Eléments_introductifs-6.pdf"
+    },
+    {
+      "id": "cm1_2_q1",
+      "question": "Quelles sont les deux variables clés initialement présentées pour l'analyse macroéconomique ?",
+      "options": [
+        "La dette publique et le taux de change.",
+        "La production agrégée en volume (PIB) et le niveau agrégé des prix (inflation).",
+        "Le taux d'emploi et la productivité du travail.",
+        "L'épargne des ménages et l'investissement des entreprises."
+      ],
+      "correctAnswer": "La production agrégée en volume (PIB) et le niveau agrégé des prix (inflation).",
+      "sourceFile": "1_2_Introduction_à_la_macroéconomie-3.pdf"
+    },
+    {
+      "id": "cm1_2_q2",
+      "question": "Pour simplifier le cadre théorique initial de la macroéconomie, quelles hypothèses sont posées concernant le pays fictif 'Fordistan' ?",
+      "options": [
+        "Une économie ouverte avec un État interventionniste.",
+        "Une économie fermée sans État.",
+        "Une économie planifiée avec un contrôle total de la production par l'État.",
+        "Une économie en développement rapide avec des échanges internationaux importants."
+      ],
+      "correctAnswer": "Une économie fermée sans État.",
+      "sourceFile": "1_2_Introduction_à_la_macroéconomie-3.pdf"
+    },
+    {
+      "id": "cm1_2_q3",
+      "question": "Selon la définition donnée dans le cours, qu'est-ce que le Produit Intérieur Brut (PIB) ?",
+      "options": [
+        "La valeur de tous les biens et services produits, y compris intermédiaires.",
+        "La valeur des biens et services finaux produits dans un pays, au cours d'une période donnée.",
+        "Le revenu total de tous les citoyens d'un pays.",
+        "La somme de toutes les dépenses d'investissement des entreprises."
+      ],
+      "correctAnswer": "La valeur des biens et services finaux produits dans un pays, au cours d'une période donnée.",
+      "sourceFile": "1_2_Introduction_à_la_macroéconomie-3.pdf"
+    },
+    {
+      "id": "cm1_2_q4",
+      "question": "Comment est définie la Valeur Ajoutée (VA) ?",
+      "options": [
+        "Le chiffre d'affaires total d'une entreprise moins ses impôts.",
+        "La valeur des biens et services totaux produits, diminuée des achats intermédiaires nécessaires au processus de production.",
+        "La différence entre les exportations et les importations d'un pays.",
+        "Les salaires versés aux employés plus les profits des actionnaires."
+      ],
+      "correctAnswer": "La valeur des biens et services totaux produits, diminuée des achats intermédiaires nécessaires au processus de production.",
+      "sourceFile": "1_2_Introduction_à_la_macroéconomie-3.pdf"
+    },
+    {
+      "id": "cm1_2_q5",
+      "question": "Dans une économie fermée sans État, l'approche du PIB par les dépenses se résume à :",
+      "options": [
+        "PIB = Consommation (C) + Investissement (I) + Dépenses publiques (G)",
+        "PIB = Consommation (C) + Investissement (I)",
+        "PIB = Consommation (C) + Épargne (S)",
+        "PIB = Revenus du travail (Yl) + Revenus du capital (Yk) - Impôts"
+      ],
+      "correctAnswer": "PIB = Consommation (C) + Investissement (I)",
+      "sourceFile": "1_2_Introduction_à_la_macroéconomie-3.pdf"
+    },
+    {
+      "id": "cm1_2_q6",
+      "question": "Quelle est la relation fondamentale entre l'épargne (S) et l'investissement (I) à l'échelle agrégée dans une économie fermée sans État ?",
+      "options": [
+        "L'épargne est toujours supérieure à l'investissement.",
+        "L'investissement est toujours supérieur à l'épargne.",
+        "L'épargne est égale à l'investissement (S=I).",
+        "Il n'y a pas de relation directe entre l'épargne et l'investissement."
+      ],
+      "correctAnswer": "L'épargne est égale à l'investissement (S=I).",
+      "sourceFile": "1_2_Introduction_à_la_macroéconomie-3.pdf"
+    },
+    {
+      "id": "cm1_2_q7",
+      "question": "Laquelle de ces affirmations est une critique ou une limite du PIB en tant qu'indicateur ?",
+      "options": [
+        "Le PIB mesure parfaitement le bonheur et le bien-être d'une population.",
+        "Le PIB ne prend pas en compte la production non marchande ou l'économie souterraine.",
+        "Le PIB reflète toujours une distribution équitable des revenus.",
+        "Le PIB est difficile à calculer et n'est jamais précis."
+      ],
+      "correctAnswer": "Le PIB ne prend pas en compte la production non marchande ou l'économie souterraine.",
+      "sourceFile": "1_2_Introduction_à_la_macroéconomie-3.pdf"
+    },
+    {
+      "id": "cm1_2_q8",
+      "question": "À quoi servent principalement la courbe de Lorentz et le coefficient de Gini ?",
+      "options": [
+        "À mesurer la croissance du PIB par habitant.",
+        "À caractériser le degré d'inégalité dans la distribution d'une variable comme les revenus.",
+        "À déterminer le niveau optimal d'investissement dans une économie.",
+        "À prévoir les fluctuations cycliques de l'économie."
+      ],
+      "correctAnswer": "À caractériser le degré d'inégalité dans la distribution d'une variable comme les revenus.",
+      "sourceFile": "1_2_Introduction_à_la_macroéconomie-3.pdf"
+    },
+    {
+      "id": "cm2_q1",
+      "question": "Selon la définition microéconomique, un marché est :",
+      "options": [
+        "Uniquement un lieu physique de vente.",
+        "Un ensemble de réglementations gouvernementales sur les prix.",
+        "Un groupe d'agents économiques qui échangent des biens et des services selon des règles établies.",
+        "Le total des exportations d'un pays."
+      ],
+      "correctAnswer": "Un groupe d'agents économiques qui échangent des biens et des services selon des règles établies.",
+      "sourceFile": "2__Introduction_à_la_microéconomie-2.pdf"
+    },
+    {
+      "id": "cm2_q2",
+      "question": "Dans un marché simplifié en concurrence pure et parfaite, quelle condition est supposée ?",
+      "options": [
+        "Les agents peuvent individuellement influencer le prix (price-makers).",
+        "Il existe de fortes asymétries d'information entre acheteurs et vendeurs.",
+        "Les agents sont preneurs de prix (price-takers).",
+        "L'intervention de l'État est constante pour réguler les prix."
+      ],
+      "correctAnswer": "Les agents sont preneurs de prix (price-takers).",
+      "sourceFile": "2__Introduction_à_la_microéconomie-2.pdf"
+    },
+    {
+      "id": "cm2_q3",
+      "question": "La quantité offerte d'un bien ou service, toutes choses égales par ailleurs :",
+      "options": [
+        "Varie généralement en sens inverse du prix.",
+        "Est indépendante du prix.",
+        "Varie généralement dans le même sens que le prix.",
+        "Est toujours égale à la quantité demandée."
+      ],
+      "correctAnswer": "Varie généralement dans le même sens que le prix.",
+      "sourceFile": "2__Introduction_à_la_microéconomie-2.pdf"
+    },
+    {
+      "id": "cm2_q4",
+      "question": "Sur une courbe d'offre individuelle, le prix correspondant à chaque quantité représente le :",
+      "options": [
+        "Coût fixe moyen du producteur.",
+        "Revenu total du producteur.",
+        "Coût de production marginal du producteur.",
+        "Profit maximum du producteur."
+      ],
+      "correctAnswer": "Coût de production marginal du producteur.",
+      "sourceFile": "2__Introduction_à_la_microéconomie-2.pdf"
+    },
+    {
+      "id": "cm2_q5",
+      "question": "La quantité demandée d'un bien ou service, toutes choses égales par ailleurs :",
+      "options": [
+        "Varie généralement dans le même sens que le prix.",
+        "Est indépendante du prix.",
+        "Varie généralement en sens inverse du prix.",
+        "Est déterminée uniquement par les besoins du consommateur."
+      ],
+      "correctAnswer": "Varie généralement en sens inverse du prix.",
+      "sourceFile": "2__Introduction_à_la_microéconomie-2.pdf"
+    },
+    {
+      "id": "cm2_q6",
+      "question": "Qu'est-ce que l'utilité en microéconomie ?",
+      "options": [
+        "Le coût d'acquisition d'un bien.",
+        "Une mesure de la satisfaction ou du bonheur produit par la consommation d'un bien ou d'un service.",
+        "La quantité de biens disponibles sur le marché.",
+        "La durabilité d'un produit."
+      ],
+      "correctAnswer": "Une mesure de la satisfaction ou du bonheur produit par la consommation d'un bien ou d'un service.",
+      "sourceFile": "2__Introduction_à_la_microéconomie-2.pdf"
+    },
+    {
+      "id": "cm2_q7",
+      "question": "Un choc de demande positif sur un marché se traduit par :",
+      "options": [
+        "Une diminution de la demande pour un prix et une offre donnés.",
+        "Une augmentation de l'offre pour un prix et une demande donnés.",
+        "Une augmentation de la demande pour un prix et une offre donnés.",
+        "Une diminution de l'offre pour un prix et une demande donnés."
+      ],
+      "correctAnswer": "Une augmentation de la demande pour un prix et une offre donnés.",
+      "sourceFile": "2__Introduction_à_la_microéconomie-2.pdf"
+    },
+    {
+      "id": "cm2_q8",
+      "question": "Que mesure l'élasticité-prix de l'offre ?",
+      "options": [
+        "La réaction du prix à une variation de la quantité offerte.",
+        "La sensibilité de la quantité offerte à une variation de prix.",
+        "La capacité des producteurs à influencer les prix.",
+        "Le coût de production supplémentaire pour une unité offerte en plus."
+      ],
+      "correctAnswer": "La sensibilité de la quantité offerte à une variation de prix.",
+      "sourceFile": "2__Introduction_à_la_microéconomie-2.pdf"
+    },
+    {
+      "id": "cm2_q9",
+      "question": "Le surplus du producteur est défini comme :",
+      "options": [
+        "Le profit total de l'entreprise avant impôts.",
+        "La différence entre le prix auquel un producteur vend et le coût total de production.",
+        "La différence entre le prix qu'un producteur reçoit et le prix minimum qu'il est prêt à accepter.",
+        "Les subventions reçues par le producteur de la part de l'État."
+      ],
+      "correctAnswer": "La différence entre le prix qu'un producteur reçoit et le prix minimum qu'il est prêt à accepter.",
+      "sourceFile": "2__Introduction_à_la_microéconomie-2.pdf"
+    },
+    {
+      "id": "cm3_1_q1",
+      "question": "Quelle est la grande question traitée dans le cours sur la croissance économique ?",
+      "options": [
+        "Comment les entreprises fixent-elles leurs prix ?",
+        "Pourquoi êtes-vous, en moyenne, largement plus riches que vos arrières-arrières grands-parents ?",
+        "Quelles sont les causes des crises financières ?",
+        "Comment l'État doit-il réguler les marchés ?"
+      ],
+      "correctAnswer": "Pourquoi êtes-vous, en moyenne, largement plus riches que vos arrières-arrières grands-parents ?",
+      "sourceFile": "3_1_La_croissance_économique-3.pdf"
+    },
+    {
+      "id": "cm3_1_q2",
+      "question": "Quels sont les trois principaux facteurs de production agrégés mentionnés ?",
+      "options": [
+        "Terre, technologie, et services.",
+        "Monnaie, crédit, et épargne.",
+        "Capital (K), Travail (L), et Productivité globale des facteurs (A).",
+        "Consommation, Investissement, et Dépenses publiques."
+      ],
+      "correctAnswer": "Capital (K), Travail (L), et Productivité globale des facteurs (A).",
+      "sourceFile": "3_1_La_croissance_économique-3.pdf"
+    },
+    {
+      "id": "cm3_1_q3",
+      "question": "Selon la fonction de production agrégée $Y = A \\times F(K,L)$, que représente 'A' ?",
+      "options": [
+        "L'amortissement du capital.",
+        "L'offre de travail disponible.",
+        "La productivité globale des facteurs (technologie, éducation, organisation, etc.).",
+        "Le taux d'accumulation du capital."
+      ],
+      "correctAnswer": "La productivité globale des facteurs (technologie, éducation, organisation, etc.).",
+      "sourceFile": "3_1_La_croissance_économique-3.pdf"
+    },
+    {
+      "id": "cm3_1_q4",
+      "question": "En économie fermée, quelle est la relation entre l'épargne (S), le revenu (Y) et la consommation (C) ?",
+      "options": [
+        "S = Y + C",
+        "S = Y - C",
+        "S = C - Y",
+        "S = Y * C"
+      ],
+      "correctAnswer": "S = Y - C",
+      "sourceFile": "3_1_La_croissance_économique-3.pdf"
+    },
+    {
+      "id": "cm3_1_q5",
+      "question": "Comment l'accumulation du capital affecte-t-elle le PIB, selon le cours ?",
+      "options": [
+        "Elle n'a aucun impact sur le PIB.",
+        "Une accumulation rapide du capital entraîne une diminution du PIB.",
+        "Une accumulation rapide du capital entraîne une augmentation du PIB, mais avec un rendement marginal décroissant.",
+        "L'accumulation du capital a un impact négatif sur la consommation et donc sur le PIB."
+      ],
+      "correctAnswer": "Une accumulation rapide du capital entraîne une augmentation du PIB, mais avec un rendement marginal décroissant.",
+      "sourceFile": "3_1_La_croissance_économique-3.pdf"
+    },
+    {
+      "id": "cm3_1_q6",
+      "question": "Pour expliquer une croissance exponentielle continue du PIB à long terme, quel facteur doit également connaître une croissance exponentielle ?",
+      "options": [
+        "Uniquement la croissance démographique.",
+        "Uniquement l'accumulation du capital.",
+        "La productivité globale des facteurs (A).",
+        "Le taux d'épargne national."
+      ],
+      "correctAnswer": "La productivité globale des facteurs (A).",
+      "sourceFile": "3_1_La_croissance_économique-3.pdf"
+    },
+    {
+      "id": "cm3_2_q1",
+      "question": "Selon Adam Smith, que permet la 'main invisible' dans un marché en compétition pure et parfaite ?",
+      "options": [
+        "Elle garantit que seuls les plus riches bénéficient des échanges.",
+        "Elle conduit à une intervention accrue de l'État pour corriger les inégalités.",
+        "La poursuite des intérêts individuels maximise le bien-être de la société (surplus social).",
+        "Elle mène inévitablement à la formation de monopoles."
+      ],
+      "correctAnswer": "La poursuite des intérêts individuels maximise le bien-être de la société (surplus social).",
+      "sourceFile": "3_2_La_concurrence-3.pdf"
+    },
+    {
+      "id": "cm3_2_q2",
+      "question": "Qu'est-ce qu'une externalité en économie ?",
+      "options": [
+        "Un coût de production qui n'est pas pris en compte par l'entreprise.",
+        "L'influence de l'activité d'un agent sur le surplus d'un autre sans transaction économique directe.",
+        "Un avantage dont bénéficie une entreprise grâce à une subvention de l'État.",
+        "Les fluctuations de prix dues aux chocs de demande externes."
+      ],
+      "correctAnswer": "L'influence de l'activité d'un agent sur le surplus d'un autre sans transaction économique directe.",
+      "sourceFile": "3_2_La_concurrence-3.pdf"
+    },
+    {
+      "id": "cm3_2_q3",
+      "question": "Un bien public se caractérise par le fait qu'il est :",
+      "options": [
+        "Rival et excluable.",
+        "Non rival et excluable.",
+        "Rival et non excluable.",
+        "Non rival et non excluable."
+      ],
+      "correctAnswer": "Non rival et non excluable.",
+      "sourceFile": "3_2_La_concurrence-3.pdf"
+    },
+    {
+      "id": "cm3_2_q4",
+      "question": "Quelle est la caractéristique principale d'un monopole ?",
+      "options": [
+        "Un grand nombre de petits producteurs offrant des produits différenciés.",
+        "Un seul producteur qui peut influencer le prix du marché.",
+        "Quelques grands producteurs qui se font une concurrence féroce sur les prix.",
+        "Un marché où l'entrée est libre et où les profits sont nuls à long terme."
+      ],
+      "correctAnswer": "Un seul producteur qui peut influencer le prix du marché.",
+      "sourceFile": "3_2_La_concurrence-3.pdf"
+    },
+    {
+      "id": "cm3_2_q5",
+      "question": "Qu'est-ce qu'un oligopole ?",
+      "options": [
+        "Un marché avec un seul acheteur et de nombreux vendeurs.",
+        "Un marché où un nombre très restreint de producteurs se partagent le marché.",
+        "Un marché caractérisé par une concurrence parfaite et des produits homogènes.",
+        "Une situation où l'État contrôle la majorité de la production."
+      ],
+      "correctAnswer": "Un marché où un nombre très restreint de producteurs se partagent le marché.",
+      "sourceFile": "3_2_La_concurrence-3.pdf"
+    },
+    {
+      "id": "cm3_2_q6",
+      "question": "Que signifie l'absence d'asymétrie d'information sur un marché ?",
+      "options": [
+        "Seuls les vendeurs disposent de toutes les informations pertinentes.",
+        "Tous les agents économiques disposent des mêmes informations et savent que les autres agents disposent de ces mêmes informations.",
+        "L'information est coûteuse et difficile à obtenir pour tous les agents.",
+        "Les informations sur les prix sont cachées aux consommateurs."
+      ],
+      "correctAnswer": "Tous les agents économiques disposent des mêmes informations et savent que les autres agents disposent de ces mêmes informations.",
+      "sourceFile": "3_2_La_concurrence-3.pdf"
+    },
+    {
+      "id": "cm4_q1",
+      "question": "Comment est défini le taux de chômage ?",
+      "options": [
+        "Nombre de chômeurs / Population totale",
+        "Nombre de chômeurs / Nombre d'actifs",
+        "Nombre de personnes sans emploi / Population en âge de travailler",
+        "Nombre d'inactifs / Nombre d'actifs"
+      ],
+      "correctAnswer": "Nombre de chômeurs / Nombre d'actifs",
+      "sourceFile": "4__Le_cycle_d_affaires-3.pdf"
+    },
+    {
+      "id": "cm4_q2",
+      "question": "Sur le marché du travail, qui représente la demande de travail et qui représente l'offre de travail dans le modèle simplifié ?",
+      "options": [
+        "Demande : consommateurs, Offre : producteurs",
+        "Demande : producteurs, Offre : consommateurs (travailleurs)",
+        "Demande : État, Offre : entreprises",
+        "Demande : travailleurs, Offre : chômeurs"
+      ],
+      "correctAnswer": "Demande : producteurs, Offre : consommateurs (travailleurs)",
+      "sourceFile": "4__Le_cycle_d_affaires-3.pdf"
+    },
+    {
+      "id": "cm4_q3",
+      "question": "Qu'est-ce que la déflation ?",
+      "options": [
+        "Une augmentation rapide du niveau général des prix.",
+        "Une situation où le taux d'inflation est positif mais décroissant.",
+        "Une situation où le taux d'inflation est négatif (baisse du niveau général des prix).",
+        "Une stabilisation du niveau général des prix."
+      ],
+      "correctAnswer": "Une situation où le taux d'inflation est négatif (baisse du niveau général des prix).",
+      "sourceFile": "4__Le_cycle_d_affaires-3.pdf"
+    },
+    {
+      "id": "cm4_q4",
+      "question": "Que signifie l'expression 'quantité réelle' ou 'à prix constants' ?",
+      "options": [
+        "Une quantité monétaire exprimée selon les prix actuels du marché.",
+        "Une quantité monétaire corrigée de la variation des prix par rapport à une période de référence.",
+        "La quantité maximale de biens qu'on peut produire.",
+        "Une estimation de la valeur future d'une quantité monétaire."
+      ],
+      "correctAnswer": "Une quantité monétaire corrigée de la variation des prix par rapport à une période de référence.",
+      "sourceFile": "4__Le_cycle_d_affaires-3.pdf"
+    },
+    {
+      "id": "cm4_q5",
+      "question": "Selon la loi d'Okun, quelle relation existe-t-il entre le PIB et le chômage ?",
+      "options": [
+        "Lorsque le PIB croît plus vite que sa tendance, le chômage augmente.",
+        "Lorsque le PIB croît plus vite que sa tendance, le chômage se réduit.",
+        "Il n'y a pas de relation systématique entre PIB et chômage.",
+        "Le PIB et le chômage varient toujours dans le même sens."
+      ],
+      "correctAnswer": "Lorsque le PIB croît plus vite que sa tendance, le chômage se réduit.",
+      "sourceFile": "4__Le_cycle_d_affaires-3.pdf"
+    },
+    {
+      "id": "cm4_q6",
+      "question": "Que sont les 'effets de second tour' dans le contexte d'un choc économique ?",
+      "options": [
+        "Les premières réactions des marchés financiers au choc initial.",
+        "Les conséquences indirectes du choc initial sur d'autres marchés (ex: marché du travail) qui affectent ensuite le marché initial.",
+        "Les mesures prises par le gouvernement pour contrer le choc.",
+        "La phase de reprise économique après une récession."
+      ],
+      "correctAnswer": "Les conséquences indirectes du choc initial sur d'autres marchés (ex: marché du travail) qui affectent ensuite le marché initial.",
+      "sourceFile": "4__Le_cycle_d_affaires-3.pdf"
+    },
+    {
+      "id": "cm4_q7",
+      "question": "Selon la théorie de Minsky et Kindleberger, quel rôle joue le crédit dans les cycles d'affaires ?",
+      "options": [
+        "Le crédit est une conséquence neutre des cycles d'affaires.",
+        "Le crédit stabilise l'économie et empêche les cycles.",
+        "Le crédit est la cause principale des cycles d'affaires, n'étant pas une conséquence.",
+        "Le crédit n'a aucun lien avec les cycles d'affaires."
+      ],
+      "correctAnswer": "Le crédit est la cause principale des cycles d'affaires, n'étant pas une conséquence.",
+      "sourceFile": "4__Le_cycle_d_affaires-3.pdf"
+    },
+    {
+      "id": "cm5_q1",
+      "question": "Qu'est-ce que le taux d'intérêt nominal ?",
+      "options": [
+        "Le taux d'intérêt corrigé de l'inflation.",
+        "Le paiement en pourcentage du principal qu'un emprunteur doit réaliser à son prêteur, en plus de celui-ci.",
+        "Le rendement réel d'un investissement.",
+        "Le coût d'opportunité de détenir de la monnaie."
+      ],
+      "correctAnswer": "Le paiement en pourcentage du principal qu'un emprunteur doit réaliser à son prêteur, en plus de celui-ci.",
+      "sourceFile": "5__La_monnaie-2.pdf"
+    },
+    {
+      "id": "cm5_q2",
+      "question": "Comment calcule-t-on la valeur actuelle (Vi) d'un flux futur unique (Vf) attendu dans 't' périodes, avec un taux d'intérêt 'i' par période ?",
+      "options": [
+        "Vi = Vf * (1 + i)^t",
+        "Vi = Vf / (1 + i)^t",
+        "Vi = Vf * t * i",
+        "Vi = Vf - (i * t)"
+      ],
+      "correctAnswer": "Vi = Vf / (1 + i)^t",
+      "sourceFile": "5__La_monnaie-2.pdf"
+    },
+    {
+      "id": "cm5_q3",
+      "question": "Quelle est l'équation de Fisher qui relie le taux d'intérêt réel (r), le taux d'intérêt nominal (i) et le taux d'inflation (π) (version approximative) ?",
+      "options": [
+        "r = i + π",
+        "r = i * π",
+        "r = i - π",
+        "r = π - i"
+      ],
+      "correctAnswer": "r = i - π",
+      "sourceFile": "5__La_monnaie-2.pdf"
+    },
+    {
+      "id": "cm5_q4",
+      "question": "Sur le marché du crédit, comment réagissent généralement les emprunteurs et les prêteurs à une hausse du taux d'intérêt réel ?",
+      "options": [
+        "Emprunteurs augmentent leur demande, prêteurs augmentent leur offre.",
+        "Emprunteurs réduisent leur demande, prêteurs augmentent leur offre.",
+        "Emprunteurs augmentent leur demande, prêteurs réduisent leur offre.",
+        "Emprunteurs réduisent leur demande, prêteurs réduisent leur offre."
+      ],
+      "correctAnswer": "Emprunteurs réduisent leur demande, prêteurs augmentent leur offre.",
+      "sourceFile": "5__La_monnaie-2.pdf"
+    },
+    {
+      "id": "cm5_q5",
+      "question": "Quelles sont les trois fonctions principales de la monnaie ?",
+      "options": [
+        "Investissement, spéculation, et consommation.",
+        "Production, distribution, et régulation.",
+        "Moyen d'échange, réserve de valeur, et unité de compte.",
+        "Taxation, subvention, et endettement."
+      ],
+      "correctAnswer": "Moyen d'échange, réserve de valeur, et unité de compte.",
+      "sourceFile": "5__La_monnaie-2.pdf"
+    },
+    {
+      "id": "cm5_q6",
+      "question": "Qu'est-ce que la masse monétaire (M2) d'un point de vue macroéconomique ?",
+      "options": [
+        "Uniquement les pièces et billets en circulation.",
+        "Les réserves d'or de la banque centrale.",
+        "Les pièces et billets + tous types de dépôts du secteur privé dans les banques.",
+        "La totalité des crédits accordés par les banques."
+      ],
+      "correctAnswer": "Les pièces et billets + tous types de dépôts du secteur privé dans les banques.",
+      "sourceFile": "5__La_monnaie-2.pdf"
+    },
+    {
+      "id": "cm5_q7",
+      "question": "Selon la théorie monétariste, quel est le principal déterminant de l'inflation de long terme ?",
+      "options": [
+        "Les chocs d'offre sur les matières premières.",
+        "Les politiques fiscales du gouvernement.",
+        "L'écart entre le taux de croissance de la masse monétaire (M2) et le taux de croissance du PIB réel.",
+        "Les anticipations des agents économiques."
+      ],
+      "correctAnswer": "L'écart entre le taux de croissance de la masse monétaire (M2) et le taux de croissance du PIB réel.",
+      "sourceFile": "5__La_monnaie-2.pdf"
+    },
+    {
+      "id": "cm5_q8",
+      "question": "Quels sont les deux principaux objectifs des banques centrales dans la plupart des pays développés ?",
+      "options": [
+        "Maximiser les profits des banques commerciales et assurer un taux de change fixe.",
+        "Financer directement les déficits publics et contrôler les salaires.",
+        "Atteindre un niveau d'inflation faible mais positif (environ 2%) et un niveau d'emploi maximum soutenable.",
+        "Promouvoir la croissance économique à tout prix et réduire les impôts."
+      ],
+      "correctAnswer": "Atteindre un niveau d'inflation faible mais positif (environ 2%) et un niveau d'emploi maximum soutenable.",
+      "sourceFile": "5__La_monnaie-2.pdf"
+    },
+    {
+      "id": "cm6_q1",
+      "question": "Qu'est-ce que l'avantage comparatif selon David Ricardo ?",
+      "options": [
+        "La capacité d'un pays à produire tous les biens moins cher que ses partenaires.",
+        "La spécialisation d'un pays dans la production pour laquelle sa productivité est la plus forte (ou la moins faible) par comparaison avec ses partenaires.",
+        "L'avantage qu'un pays tire de ses ressources naturelles abondantes.",
+        "La situation où un pays n'a aucun intérêt à échanger avec d'autres."
+      ],
+      "correctAnswer": "La spécialisation d'un pays dans la production pour laquelle sa productivité est la plus forte (ou la moins faible) par comparaison avec ses partenaires.",
+      "sourceFile": "6__L_économie_ouverte_et_publique-3.pdf"
+    },
+    {
+      "id": "cm6_q2",
+      "question": "Qu'est-ce qu'un taux de change nominal ?",
+      "options": [
+        "Le taux d'intérêt d'un pays par rapport à un autre.",
+        "Le prix d'une monnaie exprimé dans une autre monnaie.",
+        "Le pouvoir d'achat comparé de deux monnaies.",
+        "La valeur de la monnaie ajustée de l'inflation."
+      ],
+      "correctAnswer": "Le prix d'une monnaie exprimé dans une autre monnaie.",
+      "sourceFile": "6__L_économie_ouverte_et_publique-3.pdf"
+    },
+    {
+      "id": "cm6_q3",
+      "question": "Selon le triangle des incompatibilités de Mundell, un pays ne peut pas avoir simultanément :",
+      "options": [
+        "Une forte croissance, un faible chômage et une inflation maîtrisée.",
+        "Un régime de change fixe, une politique monétaire autonome et la liberté de circulation des capitaux.",
+        "Un excédent commercial, un budget équilibré et une faible dette publique.",
+        "Une industrie développée, une agriculture performante et des services de haute technologie."
+      ],
+      "correctAnswer": "Un régime de change fixe, une politique monétaire autonome et la liberté de circulation des capitaux.",
+      "sourceFile": "6__L_économie_ouverte_et_publique-3.pdf"
+    },
+    {
+      "id": "cm6_q4",
+      "question": "Comment définit-on la balance commerciale d'un pays ?",
+      "options": [
+        "La somme des exportations (X) et des importations (M).",
+        "La différence entre les exportations (X) et les importations (M).",
+        "Le ratio des exportations (X) sur les importations (M).",
+        "Le total des flux de capitaux entrants et sortants."
+      ],
+      "correctAnswer": "La différence entre les exportations (X) et les importations (M).",
+      "sourceFile": "6__L_économie_ouverte_et_publique-3.pdf"
+    },
+    {
+      "id": "cm6_q5",
+      "question": "En économie ouverte, quelle est l'équation du PIB (Y) par les dépenses ?",
+      "options": [
+        "Y = C + I + G",
+        "Y = C + I + G - (X-M)",
+        "Y = C + I + G + (X-M)",
+        "Y = C + S + T"
+      ],
+      "correctAnswer": "Y = C + I + G + (X-M)",
+      "sourceFile": "6__L_économie_ouverte_et_publique-3.pdf"
+    },
+    {
+      "id": "cm6_q6",
+      "question": "Que représente l'équation des 'déficits jumeaux' : (X-M) = (S-I) + (T-G) ?",
+      "options": [
+        "Elle montre que le déficit commercial est toujours égal au déficit public.",
+        "Elle relie le solde commercial à l'équilibre entre épargne et investissement privés et au solde budgétaire public.",
+        "Elle indique que l'épargne privée finance toujours l'investissement public.",
+        "Elle stipule que les exportations doivent toujours égaler les importations plus les dépenses publiques."
+      ],
+      "correctAnswer": "Elle relie le solde commercial à l'équilibre entre épargne et investissement privés et au solde budgétaire public.",
+      "sourceFile": "6__L_économie_ouverte_et_publique-3.pdf"
+    },
+    {
+      "id": "cm7_q1",
+      "question": "Quel événement marquant de l'histoire du numérique est associé à Intel en 1971 ?",
+      "options": [
+        "La création du premier ordinateur personnel.",
+        "L'invention d'Internet.",
+        "La création des premiers microprocesseurs et puces.",
+        "Le lancement du premier téléphone mobile."
+      ],
+      "correctAnswer": "La création des premiers microprocesseurs et puces.",
+      "sourceFile": "7__L_économie_numérique-2.pdf"
+    },
+    {
+      "id": "cm7_q2",
+      "question": "Selon le cours, l'économie numérique peut se définir comme :",
+      "options": [
+        "Uniquement la vente de matériel informatique.",
+        "L'ensemble des activités relatives aux Technologies de l'Information et de la Communication (TIC), à la production et à la vente de produits et services numériques.",
+        "L'utilisation des réseaux sociaux par les entreprises.",
+        "Le développement de l'intelligence artificielle exclusivement."
+      ],
+      "correctAnswer": "L'ensemble des activités relatives aux Technologies de l'Information et de la Communication (TIC), à la production et à la vente de produits et services numériques.",
+      "sourceFile": "7__L_économie_numérique-2.pdf"
+    },
+    {
+      "id": "cm7_q3",
+      "question": "Quel secteur est considéré comme le plus important du numérique actuellement, prenant de nombreuses formes ?",
+      "options": [
+        "La fabrication de hardware (ordinateurs, smartphones).",
+        "Le secteur des softwares (logiciels).",
+        "L'industrie des jeux vidéo.",
+        "La production de semi-conducteurs."
+      ],
+      "correctAnswer": "Le secteur des softwares (logiciels).",
+      "sourceFile": "7__L_économie_numérique-2.pdf"
+    },
+    {
+      "id": "cm7_q4",
+      "question": "Dans quel domaine de l'économie numérique des entreprises comme Amazon (AWS), Microsoft (Azure) et Google (Cloud) sont-elles des acteurs majeurs ?",
+      "options": [
+        "La production de hardware grand public.",
+        "Le développement de jeux vidéo.",
+        "Le cloud et la gestion des données.",
+        "La cybersécurité pour les particuliers."
+      ],
+      "correctAnswer": "Le cloud et la gestion des données.",
+      "sourceFile": "7__L_économie_numérique-2.pdf"
+    },
+    {
+      "id": "cm7_q5",
+      "question": "Quelle est la particularité de l'industrie du semi-conducteur mentionnée dans le cours ?",
+      "options": [
+        "Elle est entièrement dominée par des entreprises européennes.",
+        "Elle est essentielle pour l'économie mondiale et se découpe en spécialisations (conception et production souvent séparées géographiquement).",
+        "Elle est en déclin rapide à cause des nouvelles technologies sans fil.",
+        "Elle ne concerne que la fabrication de puces pour les supercalculateurs."
+      ],
+      "correctAnswer": "Elle est essentielle pour l'économie mondiale et se découpe en spécialisations (conception et production souvent séparées géographiquement).",
+      "sourceFile": "7__L_économie_numérique-2.pdf"
+    },
+    {
+      "id": "cm7_q6",
+      "question": "La cybersécurité est un secteur qui s'est développé en réponse à :",
+      "options": [
+        "La demande pour des jeux en ligne plus sécurisés.",
+        "La multiplication des virus et autres actes de nuisance en ligne, devenant un enjeu majeur avec l'importance croissante du numérique.",
+        "Le besoin de crypter les communications gouvernementales uniquement.",
+        "La nécessité de protéger les brevets des entreprises technologiques."
+      ],
+      "correctAnswer": "La multiplication des virus et autres actes de nuisance en ligne, devenant un enjeu majeur avec l'importance croissante du numérique.",
+      "sourceFile": "7__L_économie_numérique-2.pdf"
+    }
+  ]

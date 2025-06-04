@@ -1,0 +1,997 @@
+[
+    {
+      "id": "qcm_blanc_1",
+      "question": "Quels sont les trois approches complémentaires de mesure du PIB ?",
+      "options": [
+        "La production, la somme des valeurs ajoutées et les dépenses.",
+        "La production, la somme des valeurs ajoutées et les revenus.",
+        "La production, les dépenses et les revenus.",
+        "La production, les dépenses et les variations de stocks."
+      ],
+      "correctAnswer": "La production, les dépenses et les revenus.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_2",
+      "question": "Dans un pays où le capital K par tête est élevé et la population relative à la production L/Y faible, on peut s'attendre à ce que :",
+      "options": [
+        "Le rendement réel moyen du capital r soit élevé et le salaire moyen w faible.",
+        "Le rendement réel moyen du capital r soit élevé et le salaire moyen w élevé.",
+        "Le rendement réel moyen du capital r soit faible et le salaire moyen w faible.",
+        "Le rendement réel moyen du capital r soit faible et le salaire moyen w élevé."
+      ],
+      "correctAnswer": "Le rendement réel moyen du capital r soit faible et le salaire moyen w élevé.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_3",
+      "question": "Lequel de ces marchés est le moins concurrentiel?",
+      "options": [
+        "Les moteurs de recherche sur internet.",
+        "Les boulangeries à Paris.",
+        "La grande distribution alimentaire (Carrefour, Auchan, etc.)",
+        "L'électroménager."
+      ],
+      "correctAnswer": "Les moteurs de recherche sur internet.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_4",
+      "question": "Quel marché permet d'assurer l'égalité de l'épargne et de l'investissement, en économie fermée ?",
+      "options": [
+        "Le marché du travail.",
+        "Le marché des biens.",
+        "Le marché des services.",
+        "Le marché du crédit."
+      ],
+      "correctAnswer": "Le marché du crédit.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_5",
+      "question": "Une position internationale d'investissement nette (NIIP) largement négative et décroissante depuis plusieurs années révèle:",
+      "options": [
+        "Un manque de concurrence sur le marché du travail.",
+        "Une vague d'inflation.",
+        "Un éxédent budgétaire structurel de l'Etat.",
+        "Un déficit courant structurel depuis plusieurs années."
+      ],
+      "correctAnswer": "Un déficit courant structurel depuis plusieurs années.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_6",
+      "question": "Aux Etats-Unis, environ quelle part de la population en âge de travailler est inactive ?",
+      "options": [
+        "0%.",
+        "3,5%.",
+        "10%.",
+        "40%."
+      ],
+      "correctAnswer": "40%.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_7",
+      "question": "Si, pour un monopole, la hausse de son profit du fait de l'effet prix est supérieur à sa baisse du fait de l'effet volume, il a intérêt à :",
+      "options": [
+        "réduire ses quantités produites.",
+        "maintenir ses quantités produites.",
+        "augmenter ses quantités produites.",
+        "sortir du marché."
+      ],
+      "correctAnswer": "réduire ses quantités produites.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_8",
+      "question": "Afin de toujours raisonner \"en fonction du niveau de prix de l'époque\", il est nécessaire de corriger toutes les quantités monétaires des effets :",
+      "options": [
+        "De l'inflation.",
+        "De la croissance.",
+        "Du chômage.",
+        "De l'accumulation du capital."
+      ],
+      "correctAnswer": "De l'inflation.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_9",
+      "question": "Que se passe-t-il si une banque centrale décide de maintenir un taux d'intérêt réel largement plus élevé que ce que l'équilibre sur le marché du crédit aurait généré ?",
+      "options": [
+        "La demande de crédit va être plus faible et l'offre de crédit plus forte qu'à l'équilibre.",
+        "La demande de crédit va être plus forte et l'offre de crédit plus faible qu'à l'équilibre.",
+        "La demande et l'offre de crédit vont être plus fortes qu'à l'équilibre.",
+        "La demande et l'offre de crédit vont être plus faibles qu'à l'équilibre."
+      ],
+      "correctAnswer": "La demande de crédit va être plus faible et l'offre de crédit plus forte qu'à l'équilibre.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_10",
+      "question": "A court terme, l'inflation a tendance à réduire la consommation (en termes réels) car:",
+      "options": [
+        "La consommation nominale est déflatée de manière plus importante.",
+        "La consommation réelle est déflatée de manière plus importante.",
+        "Les salaires nominaux s'ajustent avec un retard.",
+        "Les salaires réels s'ajustent avec un retard."
+      ],
+      "correctAnswer": "Les salaires nominaux s'ajustent avec un retard.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_11",
+      "question": "Laquelle des propositions suivantes constitue un choc d'offre positif, d'un point de vue agrégé, aux Etats-Unis ?",
+      "options": [
+        "Le gouvernement américain décide de mettre en place des barrières douanières avec des pays étrangers.",
+        "L'Arabie Saoudite décide d'augmenter sa production de pétrole.",
+        "La Réserve Fédérale Américaine décide de baisser ses taux d'intérêts directeurs.",
+        "Le gouvernement américain décide de mettre en place un embargo sur l'achat de pétrole russe."
+      ],
+      "correctAnswer": "L'Arabie Saoudite décide d'augmenter sa production de pétrole.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_12",
+      "question": "Au bar, vous êtes prêt à payer 7€ pour votre première bière, 5€ pour la suivante et seulement 3€ pour la troisième. En terme économiques, l'utilité que vous tirez de votre consommation de bière est :",
+      "options": [
+        "Constante.",
+        "Décroissante.",
+        "Convexe.",
+        "Concave."
+      ],
+      "correctAnswer": "Concave.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_13",
+      "question": "Si sur un marché de biens et service, une loi impose de produire à un prix inférieur au prix d'équilibre, que risque-t-on d'observer ?",
+      "options": [
+        "Une production inférieure à celle induite par le prix d'équilibre.",
+        "Une production supérieure à celle induite par le prix d'équilibre.",
+        "Un tâtonnement walrasien.",
+        "Une demande inférieure à celle induite par le prix d'équilibre."
+      ],
+      "correctAnswer": "Une production inférieure à celle induite par le prix d'équilibre.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_14",
+      "question": "Quelle condition n'est pas nécessaire pour qu'un équilibre de marché permette de maximiser le surplus social ?",
+      "options": [
+        "Il n'y a pas d'asymétrie d'informations.",
+        "Il n'y a pas d'externalité négative non compensée.",
+        "Les producteurs sont en concurrence pure et parfaite.",
+        "Le profit des producteurs est nul."
+      ],
+      "correctAnswer": "Le profit des producteurs est nul.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_15",
+      "question": "Lequel des pays suivant peut le plus se présenter comme une économie fermée ?",
+      "options": [
+        "Singapour.",
+        "Les Etats-Unis.",
+        "L'Allemagne.",
+        "Les Pays-Bas."
+      ],
+      "correctAnswer": "Les Etats-Unis.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_16",
+      "question": "En économie ouverte, si la banque centrale abaisse le taux d'intérêt réel, on peut s'attendre à :",
+      "options": [
+        "Une stimulation de la demande agrégée (choc de demande positif) ainsi qu'une baisse du taux de change nominal.",
+        "Une stimulation de la demande agrégée (choc de demande positif) ainsi qu'une hausse du taux de change nominal.",
+        "Une contraction de la demande agrégée (choc de demande négatif) ainsi qu'une baisse du taux de change nominal.",
+        "Une contraction de la demande agrégée (choc de demande négatif) ainsi qu'une hausse du taux de change nominal."
+      ],
+      "correctAnswer": "Une stimulation de la demande agrégée (choc de demande positif) ainsi qu'une baisse du taux de change nominal.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_17",
+      "question": "Bien que cette théorie repose sur un nombre particulièrement important d'hypothèses qui ne se vérifient que rarement en pratique, qui a utilisé l'image de la main invisible pour illustrer le caractère efficient socialement du marché ?",
+      "options": [
+        "John Maynard Keynes.",
+        "Milton Friedman.",
+        "Adam Smith.",
+        "Charles P. Kindleberger."
+      ],
+      "correctAnswer": "Adam Smith.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_18",
+      "question": "Suite à un choc d'offre positif sur un marché de biens important à l'échelle agrégée, d'autres marchés (travail, financier) s'ajustent en conséquence. Comment appelle-t-on les conséquences sur le marché initial (de biens) des ajustements sur ces autres marchés ?",
+      "options": [
+        "Une réaction en chaine.",
+        "Des effets de second tour.",
+        "Une collatéralisation.",
+        "Des forces contracycliques."
+      ],
+      "correctAnswer": "Des effets de second tour.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_19",
+      "question": "Sur le marché du travail, une hausse du nombre d'actifs, sans variations du nombre d'emplois et de la population en âge de travailler induit :",
+      "options": [
+        "Une baisse du taux de chômage et une baisse du taux de participation.",
+        "Une hausse du taux de chômage et une baisse du taux de participation.",
+        "Une baisse du taux de chômage et une hausse du taux de participation.",
+        "Une hausse du taux de chômage et une hausse du taux de participation."
+      ],
+      "correctAnswer": "Une hausse du taux de chômage et une hausse du taux de participation.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_20",
+      "question": "Le marché des semi-conducteurs est particulièrement cyclique car la production est inélastique au prix et nécessite des investissements d'ampleur. Qu'est ce que cela implique?",
+      "options": [
+        "Une alternance de déflation en période de forte demande et d'inflation en période de ralentissement de la demande.",
+        "Une alternance de pénuries en période de forte demande et d'excès d'offre en période de ralentissement de la demande.",
+        "Une alternance de chomage en période de forte demande et d'inflation en période de ralentissement de la demande.",
+        "Une alternance de délocalisations en période de forte demande et de relocalisations en période de ralentissement de la demande."
+      ],
+      "correctAnswer": "Une alternance de pénuries en période de forte demande et d'excès d'offre en période de ralentissement de la demande.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_21",
+      "question": "Qu'est-ce qu'une économie fermée ?",
+      "options": [
+        "Une situation où l'Etat contraint l'économie en limitant certaines activités.",
+        "Un cadre théorique où le pays n'échange pas avec l'extérieur.",
+        "Un pays avec lequel il est difficile d'échanger.",
+        "Une économie dans une situation de confinement pour raisons sanitaires."
+      ],
+      "correctAnswer": "Un cadre théorique où le pays n'échange pas avec l'extérieur.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_22",
+      "question": "Laquelle des variables macroéconomiques suivante est un stock et non un flux ?",
+      "options": [
+        "L'investissement, I.",
+        "Le capital, K.",
+        "La valeur ajoutée, VA.",
+        "La consommation, C."
+      ],
+      "correctAnswer": "Le capital, K.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_23",
+      "question": "Le coefficient de Gini est un indicateur:",
+      "options": [
+        "De concurrence sur un marché en prenant en compte le nombre d'acteurs en mesure d'avoir une influence sur le prix d'équilibre.",
+        "De sensibilité à l'inflation des salaires, et ce par secteurs.",
+        "De performance financière corrigée de la volatilité de l'actif considéré.",
+        "De dispersion d'une variable, utile pour synthétiser des inégalités de revenus ou de patrimoine."
+      ],
+      "correctAnswer": "De dispersion d'une variable, utile pour synthétiser des inégalités de revenus ou de patrimoine.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_24",
+      "question": "Depuis son ouverture au commerce international en 1978, la Chine a connu une phase de croissance impréssionnante tirée principalement par :",
+      "options": [
+        "La croissance de sa population puis, progressivement, des gains de productivité.",
+        "Sa demande intérieure puis, progressivement, une accumulation du capital.",
+        "Des gains de productivité puis, progressivement, une accumulation du capital.",
+        "Une accumulation du capital puis progressivement des gains de productivité."
+      ],
+      "correctAnswer": "Une accumulation du capital puis progressivement des gains de productivité.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_25",
+      "question": "La loi d'Okun prétend que :",
+      "options": [
+        "Le PIB et le PIB par tête croissent de manière exponentielle.",
+        "Lorsque le PIB croit plus vite que sa tendance, le chômage se réduit.",
+        "Lorsque le PIB croit plus vite que sa tendance, l'inflation augmente.",
+        "Lorsque le chômage est faible, l'inflation est élevé, et réciproquement."
+      ],
+      "correctAnswer": "Lorsque le PIB croit plus vite que sa tendance, le chômage se réduit.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_26",
+      "question": "Selon la théorie Néo-Keynesienne (NK), l'intervention publique est nécessaire car:",
+      "options": [
+        "Les inégalités sont une forme d'inefficience du marché en concurrence pure et parfaite.",
+        "La croissance infinie dans un monde fini est une utopie.",
+        "Les chocs exogènes qui sont à l'origine des cycles d'affaires sont néfastes et une stabilisation de l'activité sur sa tendance est préférable.",
+        "Aucune intervention publique est nécessaire."
+      ],
+      "correctAnswer": "Les chocs exogènes qui sont à l'origine des cycles d'affaires sont néfastes et une stabilisation de l'activité sur sa tendance est préférable.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_27",
+      "question": "Qu'est ce qu'une variable contracyclique en macroéconomie ?",
+      "options": [
+        "Une variable qui diminue lorsque le PIB augmente, et inversement.",
+        "Une variable qui augmente lorsque le PIB augmente, et inversement.",
+        "Une variable qui ralentit la croissance du PIB lorsque celle-ci est supérieure à sa tendance, et inversement.",
+        "Une variable qui accélère la croissance du PIB lorsque celle-ci est inférieure à sa tendance, et inversement."
+      ],
+      "correctAnswer": "Une variable qui ralentit la croissance du PIB lorsque celle-ci est supérieure à sa tendance, et inversement.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_28",
+      "question": "La coexistence de chômeurs et de postes vacants souligne :",
+      "options": [
+        "Que les entreprises ne veulent pas embaucher les chômeurs.",
+        "Que les chômeurs ne veulent pas retrouver de travail.",
+        "Qu'il n'est pas rationnel que certaines personnes ne travaillent pas (volontairement ou non).",
+        "Qu'il existe des frictions ou problèmes d'appariement (ou de matching) sur marché du travail."
+      ],
+      "correctAnswer": "Qu'il existe des frictions ou problèmes d'appariement (ou de matching) sur marché du travail.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_29",
+      "question": "Que se passe-t-il si une banque centrale décide de maintenir un taux d'intérêt réel largement plus bas que ce que l'équilibre sur le marché du crédit aurait généré ?",
+      "options": [
+        "La demande de crédit va être plus faible et l'offre de crédit plus forte qu'à l'équilibre.",
+        "La demande de crédit va être plus forte et l'offre de crédit plus faible qu'à l'équilibre.",
+        "La demande et l'offre de crédit vont être plus fortes qu'à l'équilibre.",
+        "La demande et l'offre de crédit vont être plus faibles qu'à l'équilibre."
+      ],
+      "correctAnswer": "La demande de crédit va être plus forte et l'offre de crédit plus faible qu'à l'équilibre.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_30",
+      "question": "Le PIB français de 1980 est:",
+      "options": [
+        "Supérieur à prix constants qu'à prix courants.",
+        "Inférieur à prix constants qu'à prix courants.",
+        "Equivalent à prix constants qu'à prix courants.",
+        "On ne peut pas savoir, cela dépend de la croissance."
+      ],
+      "correctAnswer": "Supérieur à prix constants qu'à prix courants.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_31",
+      "question": "On parle de déflation lorsque le niveau des prix est en train:",
+      "options": [
+        "D'augmenter.",
+        "De diminuer.",
+        "D'accélérer.",
+        "De ralentir."
+      ],
+      "correctAnswer": "De diminuer.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_32",
+      "question": "Le prix du pétrole augmente (sans rien savoir sur les quantités offertes ni demandées). Vous en déduisez que :",
+      "options": [
+        "La quantité consommée est en train de diminuer.",
+        "La quantité produite est en train de d'augmenter.",
+        "Il y a eu un choc d'offre négatif et / ou un choc de demande positif.",
+        "L'ensemble des réponses est vrai."
+      ],
+      "correctAnswer": "L'ensemble des réponses est vrai.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_33",
+      "question": "Comment le monopole augmente son surplus, au dépens du surplus social ?",
+      "options": [
+        "Il pratique des prix exorbitants, dissuasifs pour le consommateur.",
+        "Il est en mesure d'accroitre la demande pour ses produit via une réduction de la production.",
+        "II choisit de détruire la concurrence.",
+        "Il choisit de réduire sa production pour organiser une pénurie et faire augmenter le prix d'équilibre (qu'il contrôle)."
+      ],
+      "correctAnswer": "Il choisit de réduire sa production pour organiser une pénurie et faire augmenter le prix d'équilibre (qu'il contrôle).",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_34",
+      "question": "Si, sur le marché du travail, une loi impose un salaire minimum supérieur au salaire d'équilibre, que risque-t-on d'observer ?",
+      "options": [
+        "Une quantité de travail fournie inférieure à celle induite par le salaire d'équilibre ainsi que du chômage volontaire et involontaire.",
+        "Une quantité de travail fournie supérieure à celle induite par le salaire d'équilibre ainsi que du chômage volontaire et involontaire.",
+        "Une quantité de travail fournie inférieure à celle induite par le salaire d'équilibre ainsi que du chômage volontaire uniquement.",
+        "Une quantité de travail fournie supérieure à celle induite par le salaire d'équilibre ainsi que et du chômage volontaire uniquement."
+      ],
+      "correctAnswer": "Une quantité de travail fournie supérieure à celle induite par le salaire d'équilibre ainsi que du chômage volontaire et involontaire.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_35",
+      "question": "Depuis 2022, la Banque centrale des Etats-Unis (Fed) a massivement augmenté ses taux directeurs. Pourquoi?",
+      "options": [
+        "Pour aider le gouvernement américain à se financer.",
+        "Pour réduire le chômage.",
+        "Pour réduire l'inflation.",
+        "Pour baisser le taux de change du dollar américain."
+      ],
+      "correctAnswer": "Pour réduire l'inflation.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_36",
+      "question": "Pour rendre les produit nationaux moins chers à l'étranger et stimuler les exports, une banque centrale peut...",
+      "options": [
+        "Acheter de la monnaie étrangère avec de la monnaie nationale pour maintenir un taux de change plus bas que ce que l'équilibre du marché des changes aurait produit.",
+        "Acheter de la monnaie étrangère avec de la monnaie nationale pour maintenir un taux de change plus haut que ce que l'équilibre du marché des changes aurait produit.",
+        "Vendre de la monnaie étrangère avec de la monnaie nationale pour maintenir un taux de change plus bas que ce que l'équilibre du marché des changes aurait produit.",
+        "Vendre de la monnaie étrangère avec de la monnaie nationale pour maintenir un taux de change plus haut que ce que l'équilibre du marché des changes aurait produit."
+      ],
+      "correctAnswer": "Acheter de la monnaie étrangère avec de la monnaie nationale pour maintenir un taux de change plus bas que ce que l'équilibre du marché des changes aurait produit.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_37",
+      "question": "Laquelle de ces propositions n'est pas un argument valable pour expliquer l'existence de gains à l'échange dans le commerce international ?",
+      "options": [
+        "Inégale répartitions des ressources naturelles.",
+        "Inégale répartitions des facteurs de production (capital et travail) pour transformer ces intrants en produits finis.",
+        "Inégale répartitions des consommateurs finaux.",
+        "Inégale répartition des taux de change."
+      ],
+      "correctAnswer": "Inégale répartition des taux de change.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_38",
+      "question": "Lorsqu'un choc de demande négatif affecte un marché qui se caractérise par un prix particulièrement rigide (du fait d'une inélasticité prix importante des courbes d'offre et de demande), on va observer ?",
+      "options": [
+        "Une chute importante des quantités produites.",
+        "Une chute modérée des quantités produites.",
+        "Une hausse modérée des quantités produites.",
+        "Une hausse importante des quantités produites."
+      ],
+      "correctAnswer": "Une chute importante des quantités produites.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_39",
+      "question": "Comment se traduit sur la courbe d'offre de travail la fait que la quantité de travail fournie est limitée par la population (on ne peut pas avoir plus d'emplois que de personnes) ?",
+      "options": [
+        "Une partie horizontale au delà d'une certaine quantité de travail fournie.",
+        "Une partie verticale au delà d'une certaine quantité de travail fournie.",
+        "Une partie horizontale en deçà d'une certaine quantité de travail fournie.",
+        "Une partie verticale en deçà d'une certaine quantité de travail fournie."
+      ],
+      "correctAnswer": "Une partie verticale au delà d'une certaine quantité de travail fournie.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_blanc_40",
+      "question": "Lorsque Free devient le 4ème opérateur de téléphonie sur le marché français en 2012, on aurait pu s'attendre à ce que :",
+      "options": [
+        "La concurrence augmente, les profits diminuent et les prix pour le consommateur augmentent.",
+        "La concurrence diminue, les profits augmentent et les prix pour le consommateur augmentent.",
+        "La concurrence augmente, les profits diminuent et les prix pour le consommateur diminuent.",
+        "La concurrence diminue, les profits diminuent et les prix pour le consommateur diminuent."
+      ],
+      "correctAnswer": "La concurrence augmente, les profits diminuent et les prix pour le consommateur diminuent.",
+      "sourceFile": "QCM_blanc_S2_23_24.pdf"
+    },
+    {
+      "id": "qcm_final_1",
+      "question": "Quel est le principal objet d'étude de l'économie ?",
+      "options": [
+        "La croissance du PIB.",
+        "Les politiques publiques.",
+        "Les choix des agents économiques.",
+        "L'allocation des ressources naturelles."
+      ],
+      "correctAnswer": "Les choix des agents économiques.",
+      "sourceFile": "QCM_Final_S2_23_24-3.pdf"
+    },
+    {
+      "id": "qcm_final_2",
+      "question": "Quelle est la composante la plus importante du PIB aux Etats-Unis (comme dans l'essentiel des pays développés) ?",
+      "options": [
+        "L'investissement, I.",
+        "Le capital, K.",
+        "La valeur ajoutée, VA.",
+        "La consommation, C."
+      ],
+      "correctAnswer": "La consommation, C.",
+      "sourceFile": "QCM_Final_S2_23_24-3.pdf"
+    },
+    {
+      "id": "qcm_final_3",
+      "question": "Dans un pays en développement, où les inégalités de revenus sont massives, on peut s'attendre à ce que :",
+      "options": [
+        "Le taux d'épargne S/Y soit très élevé et la croissance du capital K par tête importante.",
+        "Le taux d'épargne S/Y soit très élevé et la croissance du capital K par tête faible.",
+        "Le taux d'épargne S/Y soit très faible et la croissance du capital K par tête importante.",
+        "Le taux d'épargne S/Y soit très faible et la croissance du capital K par tête faible."
+      ],
+      "correctAnswer": "Le taux d'épargne S/Y soit très élevé et la croissance du capital K par tête importante.",
+      "sourceFile": "QCM_Final_S2_23_24-3.pdf"
+    },
+    {
+      "id": "qcm_final_4",
+      "question": "Lequel de ces marchés est le moins concurrentiel ?",
+      "options": [
+        "Les moteurs de recherche sur internet.",
+        "L'automobile.",
+        "Le pétrole.",
+        "La téléphonie."
+      ],
+      "correctAnswer": "Les moteurs de recherche sur internet.",
+      "sourceFile": "QCM_Final_S2_23_24-3.pdf"
+    },
+    {
+      "id": "qcm_final_5",
+      "question": "Une pénurie peut subvenir si:",
+      "options": [
+        "Une autorité exterieure impose un prix inférieur à celui induit par l'équilibre de marché.",
+        "La demande dépasse les capacités de production.",
+        "1) et 2).",
+        "Ni 1) ni 2)."
+      ],
+      "correctAnswer": "1) et 2).",
+      "sourceFile": "QCM_Final_S2_23_24-3.pdf"
+    },
+    {
+      "id": "qcm_final_6",
+      "question": "Si, sur une période donnée, le PIB réel d'un pays quadruple et son niveau des prix double, son PIB nominal a été multiplié par :",
+      "options": [
+        "2.",
+        "4.",
+        "8.",
+        "12."
+      ],
+      "correctAnswer": "8.",
+      "sourceFile": "QCM_Final_S2_23_24-3.pdf"
+    },
+    {
+      "id": "qcm_final_7",
+      "question": "Si quelqu'un affirme que la courbe de Phillips s'est applatie depuis une cinquantaine d'année, cela sigifie que :",
+      "options": [
+        "La relation inverse entre chômage et inflation est de plus en plus forte.",
+        "La relation inverse entre chômage et inflation est de plus en plus fragile.",
+        "La relation inverse entre chômage et PIB est de plus en plus fragile.",
+        "La relation inverse entre chômage et PIB est de plus en plus forte."
+      ],
+      "correctAnswer": "La relation inverse entre chômage et inflation est de plus en plus fragile.",
+      "sourceFile": "QCM_Final_S2_23_24-3.pdf"
+    },
+    {
+      "id": "qcm_final_8",
+      "question": "Comment une entreprise en concurrence pure et parfaite maximise-t-elle sont profit ?",
+      "options": [
+        "Elle réduit sa production afin d'augmenter ses prix.",
+        "Elle augmente sa production jusqu'à ce que le coût marginal de celle-ci soit égal au prix de vente.",
+        "Elle augmente sa production au maximum de ses capacités.",
+        "Elle se diversifie."
+      ],
+      "correctAnswer": "Elle augmente sa production jusqu'à ce que le coût marginal de celle-ci soit égal au prix de vente.",
+      "sourceFile": "QCM_Final_S2_23_24-3.pdf"
+    },
+    {
+      "id": "qcm_final_9",
+      "question": "Sur le marché du travail, si la courbe de demande de travail coupe la courbe d'offre dans sa partie verticale, alors:",
+      "options": [
+        "Il n'y a plus aucun inactif mais encore des chômeurs.",
+        "Il n'y a plus aucun chômeur mais encore des inactifs.",
+        "Il n'y a ni chômeurs ni inactifs.",
+        "Il n'y a encore à la fois des chômeurs et des inactifs."
+      ],
+      "correctAnswer": "Il n'y a ni chômeurs ni inactifs.",
+      "sourceFile": "QCM_Final_S2_23_24-3.pdf"
+    },
+    {
+      "id": "qcm_final_10",
+      "question": "L'instauration d'un salaire minimum aura plutôt tendance à :",
+      "options": [
+        "augmenter le taux de chômage et le taux d'activité et faire baisser le taux d'emplois.",
+        "augmenter le taux de chômage et faire baisser les taux d'emplois et d'activité.",
+        "réduire le taux de chômage et le taux d'activité et faire augmenter le taux d'emplois.",
+        "réduire le taux de chômage et faire augmenter les taux d'emplois et d'activité."
+      ],
+      "correctAnswer": "augmenter le taux de chômage et le taux d'activité et faire baisser le taux d'emplois.",
+      "sourceFile": "QCM_Final_S2_23_24-3.pdf"
+    },
+    {
+      "id": "qcm_final_11",
+      "question": "L'équation de Fisher prétend que, sur une période donnée...",
+      "options": [
+        "Le taux de change réel vaut le taux de change nominal diminué du taux d'inflation, moins un dernier facteur généralement considéré comme négligeable.",
+        "Le taux de croissance réel vaut le taux de croissance nominal diminué du taux d'inflation, moins un dernier facteur généralement considéré comme négligeable.",
+        "Le taux d'inflation réel vaut le taux d'inflation nominal diminué du taux d'inflation, moins un dernier facteur généralement considéré comme négligeable.",
+        "Le taux d'intérêt réel vaut le taux d'intérêt nominal diminué du taux d'inflation, moins un dernier facteur généralement considéré comme négligeable."
+      ],
+      "correctAnswer": "Le taux d'intérêt réel vaut le taux d'intérêt nominal diminué du taux d'inflation, moins un dernier facteur généralement considéré comme négligeable.",
+      "sourceFile": "QCM_Final_S2_23_24-3.pdf"
+    },
+    {
+      "id": "qcm_final_12",
+      "question": "Le crédit est une variable:",
+      "options": [
+        "Procyclique.",
+        "Acyclique.",
+        "Contracylique.",
+        "Dont la cyclicité est indéterminée."
+      ],
+      "correctAnswer": "Procyclique.",
+      "sourceFile": "QCM_Final_S2_23_24-3.pdf"
+    },
+    {
+      "id": "qcm_final_13",
+      "question": "On parle de désinflation lorsque le niveau des prix est entrain:",
+      "options": [
+        "D'augmenter.",
+        "De diminuer.",
+        "D'accélérer.",
+        "De ralentir."
+      ],
+      "correctAnswer": "De ralentir.",
+      "sourceFile": "QCM_Final_S2_23_24-3.pdf"
+    },
+    {
+      "id": "qcm_final_14",
+      "question": "Selon vous, parmi les biens et services suivants, lequel a une très faible élasticité-prix de sa demande ?",
+      "options": [
+        "L'électricité.",
+        "Les vêtements.",
+        "La restauration.",
+        "L'hotellerie."
+      ],
+      "correctAnswer": "L'électricité.",
+      "sourceFile": "QCM_Final_S2_23_24-3.pdf"
+    },
+    {
+      "id": "qcm_final_15",
+      "question": "Sur un marché, le producteur marginal est celui qui ?",
+      "options": [
+        "Réalise des profits immenses.",
+        "A réellement un impact sur l'équilibre de marché.",
+        "Accroit sa production dès que le prix baisse.",
+        "Réduit sa production dès que le prix augmente."
+      ],
+      "correctAnswer": "A réellement un impact sur l'équilibre de marché.",
+      "sourceFile": "QCM_Final_S2_23_24-3.pdf"
+    },
+    {
+      "id": "qcm_final_16",
+      "question": "Quelles devraient être les conséquences d'une hausse du taux d'intérêt nominal, sans variation d'inflation?",
+      "options": [
+        "Une hausse du taux d'intérêt réel et une hausse de la quantité de crédit accordée.",
+        "Une hausse du taux d'intérêt réel et une baisse de la quantité de crédit accordée.",
+        "Une baisse du taux d'intérêt réel et une hausse de la quantité de crédit accordée.",
+        "Une baisse du taux d'intérêt réel et une baisse de la quantité de crédit accordée."
+      ],
+      "correctAnswer": "Une hausse du taux d'intérêt réel et une baisse de la quantité de crédit accordée.",
+      "sourceFile": "QCM_Final_S2_23_24-3.pdf"
+    },
+    {
+      "id": "qcm_final_17",
+      "question": "Dans les pays développés, la banque centrale contrôle directement...",
+      "options": [
+        "La masse monétaire (M2).",
+        "L'inflation.",
+        "Les principaux taux d'intérêts de court terme.",
+        "Le taux de change."
+      ],
+      "correctAnswer": "Les principaux taux d'intérêts de court terme.",
+      "sourceFile": "QCM_Final_S2_23_24-3.pdf"
+    },
+    {
+      "id": "qcm_final_18",
+      "question": "Les déséquilibres de balances commerciales sont compensés par des flux financiers symétriques. Cela signifie que...",
+      "options": [
+        "Un pays en excédent commercial épargne plus qu'il n'investit (en interne) et son surplus d'épargne va être réinvestit à l'étranger.",
+        "Un pays en excédent commercial épargne plus qu'il n'investit (en interne) et son surplus d'épargne va être réinvestit en interne.",
+        "Un pays en excédent commercial investit plus qu'il n'épargne (en interne) et son déficit d'épargne va être comblé par des investissements étrangers.",
+        "Un pays en excédent commercial investit plus qu'il n'épargne (en interne) et son déficit d'épargne va être comblé par des investissements à l'étranger."
+      ],
+      "correctAnswer": "Un pays en excédent commercial épargne plus qu'il n'investit (en interne) et son surplus d'épargne va être réinvestit à l'étranger.",
+      "sourceFile": "QCM_Final_S2_23_24-3.pdf"
+    },
+    {
+      "id": "qcm_final_19",
+      "question": "Qu'est ce que la monétisation du déficit public ?",
+      "options": [
+        "une situation où l'Etat force sa banque centrale à produire de la base monétaire pour financer son déficit.",
+        "une situation où l'Etat emprunte de l'argent auprès d'agents disposant d'un excès d'épargne, notamment sur les marchés financiers.",
+        "une situation où l'Etat augmente les impôts pour rembourser ses dettes.",
+        "une situation où la banque centrale arrête de réguler le marché du crédit."
+      ],
+      "correctAnswer": "une situation où l'Etat force sa banque centrale à producing de la base monétaire pour financer son déficit.",
+      "sourceFile": "QCM_Final_S2_23_24-3.pdf"
+    },
+    {
+      "id": "qcm_final_20",
+      "question": "La valeur actuelle d'un flux dans 8 ans de 1000€, à un taux d'intérêt semestriel de 2% se calcule comme:",
+      "options": [
+        "1000\\times(1+2\\%)^{8}",
+        "1000\\times(1+2\\%)^{16}",
+        "1000/(1+2\\%)^{8}",
+        "1000/(1+2\\%)^{16}"
+      ],
+      "correctAnswer": "1000/(1+2\\%)^{16}",
+      "sourceFile": "QCM_Final_S2_23_24-3.pdf"
+    },
+    {
+      "id": "qcm_revisions_1",
+      "question": "Associez chaque cas à sa typologie de marché: Un seul demandeur et un très grand nombre d'offreurs",
+      "options": ["Monopsone", "Monopole contrarié", "Oligopole bilatéral", "Monopole"],
+      "correctAnswer": "Monopsone",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_2",
+      "question": "Associez chaque cas à sa typologie de marché: Plusieurs demandeurs et un seul offreur",
+      "options": ["Monopsone", "Monopole contrarié", "Oligopole bilatéral", "Monopole"],
+      "correctAnswer": "Monopole contrarié",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_3",
+      "question": "Associez chaque cas à sa typologie de marché: Plusieurs demandeurs et plusieurs offreurs",
+      "options": ["Oligopsone", "Monopole contrarié", "Oligopole bilatéral", "Concurrence pure et parfaite"],
+      "correctAnswer": "Oligopole bilatéral",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+      {
+      "id": "qcm_revisions_4",
+      "question": "Associez chaque cas à sa typologie de marché: Un très grand nombre de demandeurs et un seul offreur",
+      "options": ["Monopsone", "Oligopole", "Oligopole bilatéral", "Monopole"],
+      "correctAnswer": "Monopole",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_5",
+      "question": "Associez chaque cas à sa typologie de marché: Un très grand nombre de demandeurs et plusieurs offreurs",
+      "options": ["Monopsone contrarié", "Oligopole", "Oligopsone", "Monopole"],
+      "correctAnswer": "Oligopole",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_6",
+      "question": "Quels sont les principes fondamentaux du développement durable ?",
+      "options": [
+          "Dimension environnementale, Dimension politique, Dimension économique",
+          "Dimension environnementale, Dimension économique, Dimension sociale",
+          "Dimension politique, Dimension économique, Dimension sociale",
+          "Dimension environnementale, Dimension politique, Dimension sociale"
+      ],
+      "correctAnswer": "Dimension environnementale, Dimension économique, Dimension sociale",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_7",
+      "question": "Quel économiste a démontré en 1953 que les États-Unis importent des biens à forte intensité capitalistique et exportent plutôt des biens intensifs en travail ?",
+      "options": ["Adam Smith", "David Ricardo", "John Maynard Keynes", "Wassily Leontief"],
+      "correctAnswer": "Wassily Leontief",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_8",
+      "question": "Quel indicateur est utilisé pour mesurer le développement ?",
+      "options": ["GINI", "PIB", "IDH", "Courbe de Lorenz"],
+      "correctAnswer": "IDH",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_9",
+      "question": "Selon la théorie des avantages comparatifs de David Ricardo, les pays devraient :",
+      "options": [
+        "Importer les biens qu'ils peuvent produire à moindre coût relatif.",
+        "Se spécialiser dans la production des biens pour lesquels ils ont un avantage comparatif, c'est-à-dire le plus grand avantage ou le désavantage le plus faible.",
+        "Se spécialiser dans la production des biens pour lesquels ils ont un coût de production absolu plus faible.",
+        "Produire tous les biens dont ils ont besoin pour éviter les dépendances économiques."
+      ],
+      "correctAnswer": "Se spécialiser dans la production des biens pour lesquels ils ont un avantage comparatif, c'est-à-dire le plus grand avantage ou le désavantage le plus faible.",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_10",
+      "question": "Sélectionnez le/les types d'inflations",
+      "options": [
+          "Inflation monétaire, Inflation par la demande, Inflation par la spéculation",
+          "Inflation par la demande, Inflation par la spéculation, Inflation par les coûts",
+          "Inflation monétaire, Inflation par la demande, Inflation par les coûts",
+          "Inflation monétaire, Inflation par la spéculation, Inflation par les coûts"
+      ],
+      "correctAnswer": "Inflation monétaire, Inflation par la demande, Inflation par les coûts",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_11",
+      "question": "Associez l'économiste à sa théorie ou son mécanisme: Joseph Schumpeter",
+      "options": ["La destruction créatrice", "La théorie des populations", "La loi des débouchés", "La main invisible"],
+      "correctAnswer": "La destruction créatrice",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_12",
+      "question": "Associez l'économiste à sa théorie ou son mécanisme: Thomas Malthus",
+      "options": ["La destruction créatrice", "La théorie des populations", "La loi des débouchés", "Les avantages comparatifs"],
+      "correctAnswer": "La théorie des populations",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_13",
+      "question": "Associez l'économiste à sa théorie ou son mécanisme: Jean-Baptiste Say",
+      "options": ["La lutte des classes", "La théorie des populations", "La loi des débouchés", "La main invisible"],
+      "correctAnswer": "La loi des débouchés",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_14",
+      "question": "Quelle est la formule du taux d'ouvertures?",
+      "options": [
+        "(Exportations Importations) x PIB",
+        "(Exportations + Importations) / PIB x 100",
+        "(Exportations - Importations) / PIB x 100",
+        "[(Exportations + Importations) / 2] / PIB x 100"
+      ],
+      "correctAnswer": "[(Exportations + Importations) / 2] / PIB x 100",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_15",
+      "question": "Quelles théories sont associées à la division internationale du travail (DIT)?",
+      "options": [
+        "La théorie de l'avantage comparatif de David Ricardo et la théorie de l'avantage absolu d'Adam Smith.",
+        "La théorie de l'avantage comparatif d'Adam Smith et la théorie de l'avantage absolu de David Ricardo.",
+        "La destruction créatrice de Joseph Schumpeter et la main invisible d'Adam Smith.",
+        "La destruction créatrice d'Adam Smith et la main invisible de Joseph Schumpeter."
+      ],
+      "correctAnswer": "La théorie de l'avantage comparatif de David Ricardo et la théorie de l'avantage absolu d'Adam Smith.",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_16",
+      "question": "Qu'est-ce que la division internationale du travail (DIT) ?",
+      "options": [
+        "La répartition de la main-d'œuvre nationale en différents secteurs de l'économie.",
+        "La distribution des ressources naturelles à travers les différents pays.",
+        "La spécialisation des entreprises nationales dans la production de certains biens et services.",
+        "La répartition de la production mondiale de biens et de services entre pays ou zones économiques plus ou moins spécialisés."
+      ],
+      "correctAnswer": "La répartition de la production mondiale de biens et de services entre pays ou zones économiques plus ou moins spécialisés.",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_17",
+      "question": "La politique monétaire est placé sous la responsabilité des banques centrales, qui doivent veiller à la stabilité monétaire et financière pour favoriser la prospérité économique.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_18",
+      "question": "Quel indicateur est utilisé pour mesurer la croissance ?",
+      "options": ["IDH", "GINI", "PIB", "SMIC"],
+      "correctAnswer": "PIB",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_19",
+      "question": "Selon la théorie des avantages absolus d'Adam Smith, les pays devraient :",
+      "options": [
+        "Se spécialiser dans les activités dont les coûts de production sont supérieurs à ceux des autres pays.",
+        "Se diversifier dans la production de tous les biens et services pour minimiser les risques économiques.",
+        "Se spécialiser dans les activités dont les coûts de production sont inférieurs à ceux des autres pays.",
+        "Se spécialiser dans les activités qui nécessitent le plus de ressources naturelles."
+      ],
+      "correctAnswer": "Se spécialiser dans les activités dont les coûts de production sont inférieurs à ceux des autres pays.",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_20",
+      "question": "Qui sont les deux économistes à l'origine de la notion d'économie circulaire ?",
+      "options": [
+        "David W. Pearce et R. Kerry Turner",
+        "Milton Friedman et Paul Samuelson",
+        "John Maynard Keynes et Friedrich Hayek",
+        "David Ricardo et Adam Smith"
+      ],
+      "correctAnswer": "David W. Pearce et R. Kerry Turner",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_21",
+      "question": "Qu'est-ce que l'économie circulaire ?",
+      "options": [
+        "Un modèle économique axé sur une croissance exponentielle",
+        "Un concept qui encourage la surconsommation des ressources naturelles",
+        "Une approche visant à minimiser le gaspillage et à favoriser la réutilisation des matériaux",
+        "Une stratégie qui priorise la maximisation des profits à court terme"
+      ],
+      "correctAnswer": "Une approche visant à minimiser le gaspillage et à favoriser la réutilisation des matériaux",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_22",
+      "question": "Qu'est-ce que la balance commerciale?",
+      "options": [
+        "La somme des valeurs des biens et services importés.",
+        "La différence entre la valeur des biens importés et la valeur des biens exportés.",
+        "La somme des valeurs des biens et services exportés.",
+        "La différence entre la valeur des biens exportés et la valeur des biens importés."
+      ],
+      "correctAnswer": "La différence entre la valeur des biens exportés et la valeur des biens importés.",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_23",
+      "question": "Lorsque des produits sont homogènes, nous pouvons les différencier uniquement avec le prix",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_24",
+      "question": "La mondialisation ne fait que réduire les inégalités",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_25",
+      "question": "Quelle est la bonne définition de l'inflation?",
+      "options": [
+        "L'inflation est une théorie économique qui stipule que le niveau des salaires doit toujours être supérieur au niveau des prix pour garantir la prospérité économique.",
+        "L'inflation est un phénomène météorologique qui se caractérise par une augmentation de la température moyenne annuelle, causée par le réchauffement climatique.",
+        "L'inflation est la baisse rapide et continue du niveau général des prix, ce qui augmente le pouvoir d'achat des consommateurs.",
+        "L'inflation est un déséquilibre économique qui se traduit par une hausse continue du niveau général des prix."
+      ],
+      "correctAnswer": "L'inflation est un déséquilibre économique qui se traduit par une hausse continue du niveau général des prix.",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_26",
+      "question": "Combien de taux directeurs utilise la BCE dans politique monétaire ?",
+      "options": ["1", "2", "3", "4"],
+      "correctAnswer": "3",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_27",
+      "question": "Qu'est-ce qu'un leveraged buy-out (LBO) ou rachat avec effet de levier ?",
+      "options": [
+        "Un montage financier qui implique l'achat d'actions sur marge.",
+        "Un processus d'achat d'entreprise sans recours à l'endettement.",
+        "Un mécanisme où les dividendes versés par l'entreprise achetée sont utilisés pour rembourser les créanciers.",
+        "Un montage financier qui permet le rachat d'une entreprise grâce à un recours important à l'endettement, via la création d'une holding."
+      ],
+      "correctAnswer": "Un montage financier qui permet le rachat d'une entreprise grâce à un recours important à l'endettement, via la création d'une holding.",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_28",
+      "question": "La microéconomie est fortement marquée par la pensée keynésienne",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_29",
+      "question": "L'entrée sur le marché est << libre >> lorsqu'une nouvelle entreprise peut s'implanter.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    },
+    {
+      "id": "qcm_revisions_30",
+      "question": "Quelle théorie économique prédit que les pays se spécialiseront dans la production de biens qui utilisent intensivement les facteurs qu'ils possèdent en abondance ?",
+      "options": [
+        "Théorie de l'offre et de la demande",
+        "Théorie de la valeur-travail",
+        "Théorème HOS (Hecksher, Ohlin, Samuelson)",
+        "Théorie de la main invisible"
+      ],
+      "correctAnswer": "Théorème HOS (Hecksher, Ohlin, Samuelson)",
+      "sourceFile": "QCM_de_Revisions___Economie.pdf"
+    }
+  ]
