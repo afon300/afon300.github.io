@@ -1,46 +1,46 @@
-# Portfolio Antoine Fourneyron
+# Antoine Fourneyron's Portfolio
 
-Ce dépôt contient le code source de mon portfolio personnel, accessible à l'adresse [https://afon300.github.io/](https://afon300.github.io/).
+This repository contains the source code for my personal portfolio, available at [https://afon300.github.io/](https://afon300.github.io/).
 
-## 🚀 Technologies utilisées
+## 🚀 Technologies Used
 
-- **React** avec **TypeScript**
-- **Vite** pour le build
-- **Tailwind CSS** pour le stylage
-- **Framer Motion** pour les animations
-- **Lucide React** pour les icônes
-- **Recharts** pour les visualisations de données
+- **React** with **TypeScript**
+- **Vite** for building
+- **Tailwind CSS** for styling
+- **Framer Motion** for animations
+- **Lucide React** for icons
+- **Recharts** for data visualizations
 
-## 🛠️ Développement local
+## 🛠️ Local Development
 
-Pour lancer le projet localement :
+To run the project locally:
 
-1. Installez les dépendances :
+1. Install dependencies:
    ```bash
    npm install
    ```
 
-2. Lancez le serveur de développement :
+2. Start the development server:
    ```bash
    npm run dev
    ```
 
-3. Ouvrez [http://localhost:5173](http://localhost:5173) dans votre navigateur.
+3. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-## 📦 Déploiement
+## 📦 Deployment
 
-Le site est automatiquement déployé sur **GitHub Pages** via une GitHub Action (`.github/workflows/deploy.yml`) à chaque push sur la branche `main`.
+The site is automatically deployed to **GitHub Pages** via a GitHub Action (`.github/workflows/deploy.yml`) on every push to the `main` branch.
 
-### Configuration de GitHub Pages
+### GitHub Pages Configuration
 
-Pour que le déploiement automatique fonctionne, assurez-vous que :
-1. Allez dans **Settings** > **Pages** sur votre dépôt GitHub.
-2. Sous **Build and deployment** > **Source**, sélectionnez **GitHub Actions**.
+For automatic deployment to work, ensure that:
+1. Go to **Settings** > **Pages** on your GitHub repository.
+2. Under **Build and deployment** > **Source**, select **GitHub Actions**.
 
-## 📁 Structure du projet
+## 📁 Project Structure
 
-- `src/` : Code source React.
-- `src/data/portfolio.ts` : Contient toutes les données textuelles du portfolio (facile à modifier).
-- `public/` : (Si présent) Assets statiques.
-- `index.html` : Point d'entrée principal.
-- `CV.pdf` : Mon CV accessible en téléchargement.
+- `src/`: React source code.
+- `src/data/portfolio.ts`: Contains all textual data for the portfolio (easy to modify).
+- `public/`: Static assets.
+- `index.html`: Main entry point.
+- `CV.pdf`: My CV available for download.
