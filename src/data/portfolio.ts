@@ -139,27 +139,27 @@ export const portfolioData = {
       }
     }
   ],
-  skills: {
+skills: {
     development: [
       { name: "Python (NumPy, Pandas)", level: 90 },
       { name: "C", level: 85 },
       { name: "JavaScript", level: 80 },
-      { name: "C++", level: 70 }, 
+      { name: "HTML5/CSS3", level: 78 },
+      { name: "C++", level: 70 },
       { name: "Java", level: 65 },
-      { name: "Assembly", level: 65 }
-
-    ],
-    data: [
-      { name: "Excel", level: 90 },
-      { name: "SQL", level: 88 },
-      { name: "Jupyter Notebooks", level: 82 },
-      { name: "Power BI", level: 50 }
+      { name: "Assembly", level: 62 }
     ],
     tools: [
       { name: "Git/GitHub", level: 86 },
       { name: "Linux (Bash)", level: 84 },
-      { name: "HTML5/CSS3", level: 78 },
-      { name: "LaTeX", level: 72 }
+      { name: "Jupyter Notebooks", level: 82 },
+      { name: "LaTeX", level: 75 },
+      { name: "Docker", level: 72 }
+    ],
+    data: [
+      { name: "Excel", level: 90 },
+      { name: "SQL", level: 88 },
+      { name: "Power BI", level: 50 }
     ]
   },
   certifications: [
