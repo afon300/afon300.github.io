@@ -144,12 +144,16 @@ export const portfolioData = {
       { name: "Python (NumPy, Pandas)", level: 90 },
       { name: "C", level: 85 },
       { name: "JavaScript", level: 80 },
-      { name: "Java", level: 70 }
+      { name: "C++", level: 70 }, 
+      { name: "Java", level: 65 },
+      { name: "Assembly", level: 65 }
+
     ],
     data: [
-      { name: "SQL (Requêtes, Jointures)", level: 88 },
+      { name: "Excel", level: 90 },
+      { name: "SQL", level: 88 },
       { name: "Jupyter Notebooks", level: 82 },
-      { name: "Excel (VBA, TCD)", level: 75 }
+      { name: "Power BI", level: 50 }
     ],
     tools: [
       { name: "Git/GitHub", level: 86 },
