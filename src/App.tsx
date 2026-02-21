@@ -216,7 +216,7 @@ export default function App() {
             <div className="relative z-10">
               <div className="flex items-center gap-2 text-primary mb-1">
                 <TrendingUp size={14} />
-                <span className="text-[10px] font-mono uppercase tracking-widest">Live Analysis Demo</span>
+                <span className="text-[10px] font-mono uppercase tracking-widest">Analysis Demo</span>
               </div>
               <h3 className="text-xl font-bold">{lang === 'fr' ? 'Analyse de Volatilité' : 'Volatility Analysis'}</h3>
               <p className="text-xs text-slate-500">{lang === 'fr' ? 'Visualisation dynamique.' : 'Dynamic visualization.'}</p>

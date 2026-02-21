@@ -112,7 +112,7 @@ export const portfolioData = {
   projects: [
     {
       tech: ["Python", "Pandas", "Matplotlib", "API Yahoo", "Seaborn"],
-      link: "https://github.com/afon300",
+      link: "https://github.com/afon300/stock-market-data-analysis",
       fr: {
         title: "Analyse de Données Boursières",
         description: "Développement d'un script pour récupérer et traiter des données financières via API. Nettoyage de données (Data Cleaning) et visualisation des tendances de volatilité avec Seaborn.",
