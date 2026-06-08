@@ -10,10 +10,10 @@ export const portfolioData = {
     efreiEmail: "antoine.fourneyron@efrei.net",
     translations: {
       fr: {
-        title: "Étudiant Ingénieur - Recherche Alternance Data/IT",
-        bio: "Étudiant en cycle Ingénieur à l'EFREI, passionné par l'informatique et les mathématiques. Lauréat des Olympiades de Mathématiques, rigoureux et polyvalent (Python, SQL, Java).",
-        available: "DISPONIBLE POUR ALTERNANCE (24 MOIS)",
-        heroTitle: "Ingénieur Data & IT",
+        title: "Étudiant Ingénieur - Recherche Stage M1 MOA / IT Finance",
+        bio: "Étudiant en école d’ingénieurs avec un solide bagage technique (Data/C++), je recherche un stage de M1 (5 mois) en MOA / Gestion de projet IT Finance à partir de novembre 2026. Passionné par l’optimisation des processus financiers, je souhaite faire le lien entre les besoins métiers (risques, trading) et les équipes de développement. Rigoureux et doté d’une forte culture produit (Agile), je vise à accompagner le déploiement de solutions complexes, du recueil du besoin jusqu’à la livraison.",
+        available: "RECHERCHE STAGE M1 (5 MOIS) DÈS NOV. 2026",
+        heroTitle: "MOA & IT Finance",
         contactBtn: "Contact",
         cvBtn: "Télécharger CV",
         sections: {
@@ -32,10 +32,10 @@ export const portfolioData = {
         }
       },
       en: {
-        title: "Engineering Student - Seeking Data/IT Apprenticeship",
-        bio: "Engineering student at EFREI, passionate about computer science and mathematics. Mathematics Olympiad laureate, rigorous and versatile (Python, SQL, Java).",
-        available: "AVAILABLE FOR APPRENTICESHIP (24 MONTHS)",
-        heroTitle: "Data & IT Engineer",
+        title: "Engineering Student - Seeking M1 Internship MOA / IT Finance",
+        bio: "Engineering student with a strong technical background (Data/C++), seeking a 5-month M1 internship in MOA / IT Finance Project Management starting November 2026. Passionate about optimizing financial processes, I want to bridge the gap between business needs and development teams. Rigorous with a strong product culture (Agile), I aim to support the deployment of complex solutions, from requirement gathering to delivery.",
+        available: "SEEKING M1 INTERNSHIP (5 MONTHS) FROM NOV. 2026",
+        heroTitle: "MOA & IT Finance",
         contactBtn: "Contact Me",
         cvBtn: "Download CV",
         sections: {
@@ -57,109 +57,121 @@ export const portfolioData = {
   },
   formation: [
     {
-      school: "EFREI – École d'ingénieur du numérique",
+      school: "EFREI – École d'ingénieurs du Numérique",
       period: "Sept. 2023 - 2028",
       fr: {
-        degree: "Cycle Ingénieur du Numérique (Prépa Intégrée)",
-        specialization: "Data Engineering & Intelligence Artificielle",
-        details: ["Algorithmique", "Probabilités & Statistiques", "SQL", "Algèbre linéaire", "Machine Learning"]
+        degree: "Programme Ingénieur du Numérique – Équivalent Master",
+        specialization: "IT for Finance (Big Data, Intelligence Artificielle, Mathématiques Appliquées)",
+        details: ["Spécialisation : IT for Finance", "Programmation Orientée Objet", "Algorithmique", "Bases de Données (SQL)", "Probabilités et Statistiques"]
       },
       en: {
-        degree: "Digital Engineering Cycle",
-        specialization: "Data Engineering & Artificial Intelligence",
-        details: ["Algorithms", "Probability & Statistics", "SQL", "Linear Algebra", "Machine Learning"]
+        degree: "Digital Engineering Master's Program",
+        specialization: "IT for Finance (Big Data, Artificial Intelligence, Applied Mathematics)",
+        details: ["Specialization: IT for Finance", "Object-Oriented Programming", "Algorithms", "Databases (SQL)", "Probability & Statistics"]
       }
     },
     {
-      school: "Lycée Albert De Mun",
+      school: "Lycée Albert de Mun",
       period: "Juin 2023",
       fr: {
         degree: "Baccalauréat STI2D – Mention Bien",
-        details: ["Mention Bien"]
+        details: ["Olympiades de Mathématiques | Lauréat de l’Académie de Paris (Rigueur analytique)", "Mention Bien"]
       },
       en: {
         degree: "STI2D Baccalaureate – Honors",
-        details: ["With Honors"]
+        details: ["Mathematics Olympiads | Paris Academy Laureate (Analytical rigor)", "With Honors"]
       }
     }
   ],
   experience: [
     {
-      company: "Indépendant / Freelance",
-      period: "2019 - 2023",
+      company: "BikeAware (Startup)",
+      period: "Fév. 2024 - Présent",
       fr: {
-        role: "Technicien IT & Hardware",
-        details: ["Diagnostic et résolution de pannes matérielles et logicielles sur PC et Smartphones.", "Gestion de la relation client, respect des délais et rigueur technique."]
+        role: "Co-fondateur & Étudiant-Entrepreneur",
+        details: ["Pilotage du cycle de vie du produit et définition de la roadmap fonctionnelle pour un système de détection IoT par IA pour cyclistes (ESP32-S3).", "Coordination technique entre le développement matériel et logiciel (C/C++) pour assurer un flux temps réel (<0,8s).", "Gestion de projet Agile (Scrum), analyse des besoins utilisateurs et prototypage aboutissant au statut d’étudiant-entrepreneur."]
       },
       en: {
-        role: "IT & Hardware Technician",
-        details: ["Diagnosis and resolution of hardware and software failures on PC and Smartphones.", "Client relationship management, deadlines respect and technical rigor."]
+        role: "Co-founder & Student-Entrepreneur",
+        details: ["Product lifecycle management and functional roadmap definition for an AI-based IoT detection system for cyclists (ESP32-S3).", "Technical coordination between hardware and software development (C/C++) to ensure real-time flow (<0.8s).", "Agile project management (Scrum), user needs analysis, and prototyping leading to student-entrepreneur status."]
       }
     },
     {
-      company: "Freelance",
-      period: "2020 - 2022",
+      company: "Indépendant / Freelance",
+      period: "Sept. 2019 - Juin 2023",
       fr: {
-        role: "Monteur Vidéo & Scriptwriter",
-        details: ["Montage vidéo (Adobe Premiere Pro) et structuration de contenus narratifs.", "Respect strict des deadlines pour des clients professionnels."]
+        role: "Technicien, Conseil & Réparateur Informatique",
+        details: ["Analyse des besoins clients, conseil technique et résolution de problématiques matérielles complexes en totale autonomie.", "Gestion des priorités et structuration d’importants volumes de données dans le respect strict des délais et exigences clients."]
       },
       en: {
-        role: "Video Editor & Scriptwriter",
-        details: ["Video editing (Adobe Premiere Pro) and narrative content structuring.", "Strict compliance with deadlines for professional clients."]
+        role: "IT Technician, Consultant & Repairer",
+        details: ["Client needs analysis, technical advice, and resolution of complex hardware issues completely autonomously.", "Priority management and structuring of large data volumes in strict compliance with deadlines and client requirements."]
       }
     }
   ],
   projects: [
     {
-      tech: ["Python", "Pandas", "Matplotlib", "API Yahoo", "Seaborn"],
-      link: "https://github.com/afon300/stock-market-data-analysis",
+      tech: ["Gestion de Projet", "Data", "Modélisation"],
+      link: "https://github.com/afon300",
       fr: {
-        title: "Analyse de Données Boursières",
-        description: "Développement d'un script pour récupérer et traiter des données financières via API. Nettoyage de données (Data Cleaning) et visualisation des tendances de volatilité avec Seaborn.",
-        details: ["Récupération via API Yahoo Finance", "Visualisation de la volatilité avec Seaborn", "Modèles statistiques pour identification de corrélations"]
+        title: "Next-Gen Airport Challenge (Qatar Innovation) - 2026",
+        description: "Gestion de Projet Data & Modélisation",
+        details: ["Cadrage et élaboration d’une solution d’intelligence unifiant des sources de données complexes (Wi-Fi logs, XOVIS).", "Modélisation de processus et définition de KPIs métier pour identifier les goulots d’étranglement de l’aéroport HIA."]
       },
       en: {
-        title: "Stock Market Data Analysis",
-        description: "Development of a script to retrieve and process financial data via API. Data Cleaning and visualization of volatility trends with Seaborn.",
-        details: ["Retrieval via Yahoo Finance API", "Volatility visualization with Seaborn", "Statistical models for volume correlation identification"]
+        title: "Next-Gen Airport Challenge (Qatar Innovation) - 2026",
+        description: "Data Project Management & Modeling",
+        details: ["Scoping and development of an intelligence solution unifying complex data sources (Wi-Fi logs, XOVIS).", "Process modeling and definition of business KPIs to identify bottlenecks at HIA airport."]
       }
     },
     {
-      tech: ["Java", "C", "POO"],
+      tech: ["Python", "Streamlit", "Finance", "NLP"],
       link: "https://github.com/afon300",
       fr: {
-        title: "Gestionnaire de Comptes Bancaires",
-        description: "Création d'une application sécurisée de gestion de solde et de transactions.",
-        details: ["Création d'une application sécurisée", "Implémentation de structures de données optimisées", "Gestion des droits utilisateurs"]
+        title: "Plateforme d’Analyse Financière & Boursière - 2025",
+        description: "Conception Produit, Python, Streamlit",
+        details: ["Conception fonctionnelle d’un dashboard d’aide à la décision pour le backtesting d’actifs (Actions, Crypto, Forex).", "Traduction d’exigences métiers complexes en spécifications techniques (calcul de la Value at Risk 95%, prévisions).", "Intégration d’un moteur d’analyse de sentiment (NLP) pour répondre aux besoins d’analyse macro-économique des utilisateurs."]
       },
       en: {
-        title: "Bank Account Manager",
-        description: "Creation of a secure application for balance and transaction management.",
-        details: ["Creation of a secure application", "Implementation of optimized data structures", "User rights management"]
+        title: "Financial & Stock Market Analysis Platform - 2025",
+        description: "Product Design, Python, Streamlit",
+        details: ["Functional design of a decision-support dashboard for asset backtesting (Stocks, Crypto, Forex).", "Translation of complex business requirements into technical specifications (95% Value at Risk calculation, forecasting).", "Integration of a sentiment analysis engine (NLP) to meet users' macroeconomic analysis needs."]
+      }
+    },
+    {
+      tech: ["C11", "Architecture Système", "TCP", "Multi-threadé"],
+      link: "https://github.com/afon300",
+      fr: {
+        title: "CChat - Serveur TCP Multi-threadé - 2024",
+        description: "Architecture Système, C11",
+        details: ["Définition de l’architecture logicielle et conception d’une application de messagerie cross-platform (Linux/Windows).", "Gestion des contraintes de sécurité et de synchronisation des flux réseau dans un environnement client-serveur complexe."]
+      },
+      en: {
+        title: "CChat - Multi-threaded TCP Server - 2024",
+        description: "System Architecture, C11",
+        details: ["Definition of software architecture and design of a cross-platform messaging application (Linux/Windows).", "Management of security constraints and synchronization of network flows in a complex client-server environment."]
       }
     }
   ],
-skills: {
-    development: [
-      { name: "Python (NumPy, Pandas)", level: 90 },
-      { name: "C", level: 85 },
-      { name: "JavaScript", level: 80 },
-      { name: "HTML5/CSS3", level: 78 },
-      { name: "C++", level: 70 },
-      { name: "Java", level: 65 },
-      { name: "Assembly", level: 62 }
+  skills: {
+    moa: [
+      { name: "Méthodologie Agile (Scrum)", level: 90 },
+      { name: "Recueil de besoins", level: 90 },
+      { name: "Spécifications fonctionnelles", level: 85 },
+      { name: "Modélisation de processus", level: 80 }
     ],
-    tools: [
-      { name: "Git/GitHub", level: 86 },
-      { name: "Linux (Bash)", level: 84 },
-      { name: "Jupyter Notebooks", level: 82 },
-      { name: "LaTeX", level: 75 },
-      { name: "Docker", level: 72 }
+    finance: [
+      { name: "Produits financiers", level: 80 },
+      { name: "Backtesting", level: 85 },
+      { name: "Value at Risk (VaR)", level: 75 },
+      { name: "KPIs analytiques", level: 85 },
+      { name: "Aide à la décision", level: 80 }
     ],
-    data: [
-      { name: "Excel", level: 90 },
-      { name: "SQL", level: 88 },
-      { name: "Power BI", level: 50 }
+    technique: [
+      { name: "Python (Stack PyData)", level: 90 },
+      { name: "C/C++", level: 85 },
+      { name: "SQL", level: 85 },
+      { name: "Architectures Systèmes", level: 80 }
     ]
   },
   certifications: [

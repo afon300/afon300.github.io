@@ -297,16 +297,16 @@ export default function App() {
       <Section id="skills" title={t.sections.skills} icon={<Database size={24} />}>
         <div className="grid md:grid-cols-3 gap-12">
           <div>
-            <h3 className="text-lg font-bold mb-6 flex items-center gap-2"><Terminal size={18} className="text-primary" /> {lang === 'fr' ? 'Développement' : 'Development'}</h3>
-            {skills?.development?.map((s: Skill) => <SkillBar key={s.name} name={s.name} level={s.level} />)}
+            <h3 className="text-lg font-bold mb-6 flex items-center gap-2"><Briefcase size={18} className="text-primary" /> {lang === 'fr' ? 'Gestion & MOA' : 'Project Management'}</h3>
+            {skills?.moa?.map((s: Skill) => <SkillBar key={s.name} name={s.name} level={s.level} />)}
           </div>
           <div>
-            <h3 className="text-lg font-bold mb-6 flex items-center gap-2"><Database size={18} className="text-primary" /> Data & BDD</h3>
-            {skills?.data?.map((s: Skill) => <SkillBar key={s.name} name={s.name} level={s.level} />)}
+            <h3 className="text-lg font-bold mb-6 flex items-center gap-2"><TrendingUp size={18} className="text-primary" /> IT Finance</h3>
+            {skills?.finance?.map((s: Skill) => <SkillBar key={s.name} name={s.name} level={s.level} />)}
           </div>
           <div>
-            <h3 className="text-lg font-bold mb-6 flex items-center gap-2"><Code2 size={18} className="text-primary" /> {lang === 'fr' ? 'Outils' : 'Tools'}</h3>
-            {skills?.tools?.map((s: Skill) => <SkillBar key={s.name} name={s.name} level={s.level} />)}
+            <h3 className="text-lg font-bold mb-6 flex items-center gap-2"><Terminal size={18} className="text-primary" /> {lang === 'fr' ? 'Technique' : 'Technical'}</h3>
+            {skills?.technique?.map((s: Skill) => <SkillBar key={s.name} name={s.name} level={s.level} />)}
           </div>
         </div>
       </Section>
