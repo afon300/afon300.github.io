@@ -271,9 +271,11 @@ export default function App() {
                     <span key={i} className="px-2 py-1 text-[10px] font-bold bg-white/5 rounded-md text-slate-300 uppercase">{tech}</span>
                   ))}
                 </div>
-                <a href={project.link} target="_blank" rel="noopener noreferrer" className="p-2 text-slate-500 hover:text-white transition-colors">
-                  <ExternalLink size={18} />
-                </a>
+                {project.link && (
+                  <a href={project.link} target="_blank" rel="noopener noreferrer" className="p-2 text-slate-500 hover:text-white transition-colors">
+                    <ExternalLink size={18} />
+                  </a>
+                )}
               </div>
               <h3 className="text-2xl font-bold mb-4">{project[lang].title}</h3>
               <p className="text-slate-400 mb-6 text-sm">{project[lang].description}</p>

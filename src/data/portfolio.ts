@@ -112,7 +112,6 @@ export const portfolioData = {
   projects: [
     {
       tech: ["Gestion de Projet", "Data", "Modélisation"],
-      link: "https://github.com/afon300",
       fr: {
         title: "Next-Gen Airport Challenge (Qatar Innovation) - 2026",
         description: "Gestion de Projet Data & Modélisation",
@@ -126,7 +125,6 @@ export const portfolioData = {
     },
     {
       tech: ["Python", "Streamlit", "Finance", "NLP"],
-      link: "https://github.com/afon300",
       fr: {
         title: "Plateforme d’Analyse Financière & Boursière - 2025",
         description: "Conception Produit, Python, Streamlit",
@@ -171,13 +169,13 @@ export const portfolioData = {
       link: "https://github.com/afon300/projet-C",
       fr: {
         title: "projet-C",
-        description: "Projet de développement en langage C.",
-        details: ["Application des concepts de programmation système", "Gestion de la mémoire et structures de données"]
+        description: "Développement d'un projet complet en langage C impliquant l'architecture système et la gestion bas niveau.",
+        details: ["Implémentation de structures de données personnalisées et optimisées", "Gestion fine de la mémoire et prévention des fuites (valgrind)", "Application des concepts avancés de la programmation système"]
       },
       en: {
         title: "projet-C",
-        description: "Development project in C language.",
-        details: ["Application of system programming concepts", "Memory management and data structures"]
+        description: "Development of a comprehensive C project involving system architecture and low-level management.",
+        details: ["Implementation of customized and optimized data structures", "Fine-grained memory management and leak prevention (valgrind)", "Application of advanced system programming concepts"]
       }
     },
     {
@@ -185,13 +183,13 @@ export const portfolioData = {
       link: "https://github.com/afon300/pychatbot",
       fr: {
         title: "pychatbot",
-        description: "Développement d'un agent conversationnel en Python.",
-        details: ["Création d'un chatbot interactif", "Traitement du langage (NLP)"]
+        description: "Développement d'un agent conversationnel interactif en Python.",
+        details: ["Intégration d'outils de Traitement du Langage Naturel (NLP)", "Création d'un système de règles et de reconnaissance d'intentions", "Conception d'une interface de dialogue fluide et réactive"]
       },
       en: {
         title: "pychatbot",
-        description: "Development of a conversational agent in Python.",
-        details: ["Creation of an interactive chatbot", "Natural Language Processing (NLP)"]
+        description: "Development of an interactive conversational agent in Python.",
+        details: ["Integration of Natural Language Processing (NLP) tools", "Creation of a rules and intent recognition system", "Design of a smooth and responsive dialogue interface"]
       }
     },
     {
@@ -199,13 +197,13 @@ export const portfolioData = {
       link: "https://github.com/afon300/wikipemi",
       fr: {
         title: "wikipemi",
-        description: "Projet de traitement de données et automatisation en Python.",
-        details: ["Extraction et manipulation de données", "Scripts d'automatisation"]
+        description: "Script Python pour l'extraction de données et l'automatisation de tâches.",
+        details: ["Création de pipelines d'extraction et de manipulation de données (Scraping)", "Automatisation des processus pour un gain de temps significatif", "Structuration des informations récupérées dans un format exploitable"]
       },
       en: {
         title: "wikipemi",
-        description: "Data processing and automation project in Python.",
-        details: ["Data extraction and manipulation", "Automation scripts"]
+        description: "Python script for data extraction and task automation.",
+        details: ["Creation of data extraction and manipulation pipelines (Scraping)", "Process automation for significant time savings", "Structuring retrieved information into a usable format"]
       }
     }
   ],
