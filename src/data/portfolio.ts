@@ -111,32 +111,6 @@ export const portfolioData = {
   ],
   projects: [
     {
-      tech: ["Gestion de Projet", "Data", "Modélisation"],
-      fr: {
-        title: "Next-Gen Airport Challenge (Qatar Innovation) - 2026",
-        description: "Gestion de Projet Data & Modélisation",
-        details: ["Cadrage et élaboration d’une solution d’intelligence unifiant des sources de données complexes (Wi-Fi logs, XOVIS).", "Modélisation de processus et définition de KPIs métier pour identifier les goulots d’étranglement de l’aéroport HIA."]
-      },
-      en: {
-        title: "Next-Gen Airport Challenge (Qatar Innovation) - 2026",
-        description: "Data Project Management & Modeling",
-        details: ["Scoping and development of an intelligence solution unifying complex data sources (Wi-Fi logs, XOVIS).", "Process modeling and definition of business KPIs to identify bottlenecks at HIA airport."]
-      }
-    },
-    {
-      tech: ["Python", "Streamlit", "Finance", "NLP"],
-      fr: {
-        title: "Plateforme d’Analyse Financière & Boursière - 2025",
-        description: "Conception Produit, Python, Streamlit",
-        details: ["Conception fonctionnelle d’un dashboard d’aide à la décision pour le backtesting d’actifs (Actions, Crypto, Forex).", "Traduction d’exigences métiers complexes en spécifications techniques (calcul de la Value at Risk 95%, prévisions).", "Intégration d’un moteur d’analyse de sentiment (NLP) pour répondre aux besoins d’analyse macro-économique des utilisateurs."]
-      },
-      en: {
-        title: "Financial & Stock Market Analysis Platform - 2025",
-        description: "Product Design, Python, Streamlit",
-        details: ["Functional design of a decision-support dashboard for asset backtesting (Stocks, Crypto, Forex).", "Translation of complex business requirements into technical specifications (95% Value at Risk calculation, forecasting).", "Integration of a sentiment analysis engine (NLP) to meet users' macroeconomic analysis needs."]
-      }
-    },
-    {
       tech: ["C11", "Architecture Système", "TCP", "Multi-threadé"],
       link: "https://github.com/afon300/CChat",
       fr: {
