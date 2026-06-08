@@ -140,7 +140,7 @@ export const portfolioData = {
     },
     {
       tech: ["C11", "Architecture Système", "TCP", "Multi-threadé"],
-      link: "https://github.com/afon300",
+      link: "https://github.com/afon300/CChat",
       fr: {
         title: "CChat - Serveur TCP Multi-threadé - 2024",
         description: "Architecture Système, C11",
@@ -151,27 +151,83 @@ export const portfolioData = {
         description: "System Architecture, C11",
         details: ["Definition of software architecture and design of a cross-platform messaging application (Linux/Windows).", "Management of security constraints and synchronization of network flows in a complex client-server environment."]
       }
+    },
+    {
+      tech: ["Python", "Pandas", "Matplotlib", "Seaborn"],
+      link: "https://github.com/afon300/stock-market-data-analysis",
+      fr: {
+        title: "Analyse de Données Boursières (stock-market-data-analysis)",
+        description: "Développement d'un script pour récupérer et traiter des données financières via API.",
+        details: ["Récupération via API Yahoo Finance", "Visualisation de la volatilité avec Seaborn", "Modèles statistiques pour identification de corrélations"]
+      },
+      en: {
+        title: "Stock Market Data Analysis",
+        description: "Development of a script to retrieve and process financial data via API.",
+        details: ["Retrieval via Yahoo Finance API", "Volatility visualization with Seaborn", "Statistical models for volume correlation identification"]
+      }
+    },
+    {
+      tech: ["C"],
+      link: "https://github.com/afon300/projet-C",
+      fr: {
+        title: "projet-C",
+        description: "Projet de développement en langage C.",
+        details: ["Application des concepts de programmation système", "Gestion de la mémoire et structures de données"]
+      },
+      en: {
+        title: "projet-C",
+        description: "Development project in C language.",
+        details: ["Application of system programming concepts", "Memory management and data structures"]
+      }
+    },
+    {
+      tech: ["Python"],
+      link: "https://github.com/afon300/pychatbot",
+      fr: {
+        title: "pychatbot",
+        description: "Développement d'un agent conversationnel en Python.",
+        details: ["Création d'un chatbot interactif", "Traitement du langage (NLP)"]
+      },
+      en: {
+        title: "pychatbot",
+        description: "Development of a conversational agent in Python.",
+        details: ["Creation of an interactive chatbot", "Natural Language Processing (NLP)"]
+      }
+    },
+    {
+      tech: ["Python"],
+      link: "https://github.com/afon300/wikipemi",
+      fr: {
+        title: "wikipemi",
+        description: "Projet de traitement de données et automatisation en Python.",
+        details: ["Extraction et manipulation de données", "Scripts d'automatisation"]
+      },
+      en: {
+        title: "wikipemi",
+        description: "Data processing and automation project in Python.",
+        details: ["Data extraction and manipulation", "Automation scripts"]
+      }
     }
   ],
   skills: {
     moa: [
       { name: "Méthodologie Agile (Scrum)", level: 90 },
+      { name: "Modélisation de processus", level: 80 },
       { name: "Recueil de besoins", level: 90 },
-      { name: "Spécifications fonctionnelles", level: 85 },
-      { name: "Modélisation de processus", level: 80 }
+      { name: "Spécifications fonctionnelles", level: 85 }
     ],
     finance: [
-      { name: "Produits financiers", level: 80 },
+      { name: "Aide à la décision", level: 80 },
       { name: "Backtesting", level: 85 },
-      { name: "Value at Risk (VaR)", level: 75 },
       { name: "KPIs analytiques", level: 85 },
-      { name: "Aide à la décision", level: 80 }
+      { name: "Produits financiers", level: 80 },
+      { name: "Value at Risk (VaR)", level: 75 }
     ],
     technique: [
-      { name: "Python (Stack PyData)", level: 90 },
+      { name: "Architectures Systèmes", level: 80 },
       { name: "C/C++", level: 85 },
-      { name: "SQL", level: 85 },
-      { name: "Architectures Systèmes", level: 80 }
+      { name: "Python (Stack PyData)", level: 90 },
+      { name: "SQL", level: 85 }
     ]
   },
   certifications: [
