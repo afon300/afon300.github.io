@@ -4,27 +4,27 @@ export const portfolioData = {
     email: "antoinefourneyron@gmail.com",
     phone: "+33 7 69 44 78 23",
     location: "Ivry-sur-Seine (94200)",
-    linkedin: "https://www.linkedin.com/in/antoine-fourneyron-7b173b291/",
+    linkedin: "https://www.linkedin.com/in/antoine-fourneyron/",
     github: "https://github.com/afon300",
     githubUsername: "afon300",
     efreiEmail: "antoine.fourneyron@efrei.net",
     translations: {
       fr: {
-        title: "Étudiant Ingénieur - Recherche Stage M1 MOA / IT Finance",
-        bio: "Étudiant en école d’ingénieurs avec un solide bagage technique (Data/C++), je recherche un stage de M1 (5 mois) en MOA / Gestion de projet IT Finance à partir de novembre 2026. Passionné par l’optimisation des processus financiers, je souhaite faire le lien entre les besoins métiers (risques, trading) et les équipes de développement. Rigoureux et doté d’une forte culture produit (Agile), je vise à accompagner le déploiement de solutions complexes, du recueil du besoin jusqu’à la livraison.",
+        title: "Étudiant Ingénieur - IT for Finance & Data",
+        bio: "Étudiant en Master 1 IT for Finance à l'EFREI, je suis passionné par les enjeux de transformation et de pilotage stratégique liés à l'analyse de données. Fort de mon expérience entrepreneuriale et de ma rigueur analytique, j'ai à cœur de traduire des besoins métiers complexes en spécifications techniques claires, et d'optimiser les processus financiers.",
         available: "RECHERCHE STAGE M1 (5 MOIS) DÈS NOV. 2026",
-        heroTitle: "MOA & IT Finance",
-        contactBtn: "Contact",
+        heroTitle: "IT Finance & & Data Engineering",
+        contactBtn: "Me Contacter",
         cvBtn: "Télécharger CV",
         sections: {
           about: "À propos",
           projects: "Projets Phares",
-          skills: "Dashboard Technique",
+          skills: "Compétences",
           path: "Parcours",
           certs: "Certifications"
         },
         contact: {
-          subtitle: "N'hésitez pas à me contacter via mes réseaux ou par email.",
+          subtitle: "N'hésitez pas à me contacter pour échanger sur vos projets.",
           personalEmail: "Email Personnel",
           academicEmail: "Email Académique",
           phone: "Téléphone",
@@ -32,21 +32,21 @@ export const portfolioData = {
         }
       },
       en: {
-        title: "Engineering Student - Seeking M1 Internship MOA / IT Finance",
-        bio: "Engineering student with a strong technical background (Data/C++), seeking a 5-month M1 internship in MOA / IT Finance Project Management starting November 2026. Passionate about optimizing financial processes, I want to bridge the gap between business needs and development teams. Rigorous with a strong product culture (Agile), I aim to support the deployment of complex solutions, from requirement gathering to delivery.",
+        title: "Engineering Student - IT for Finance & Data",
+        bio: "Master's student in IT for Finance at EFREI, I am passionate about the transformation and strategic management challenges related to data analysis. Drawing on my entrepreneurial experience and analytical rigor, I am dedicated to translating complex business needs into clear technical specifications, and optimizing financial processes.",
         available: "SEEKING M1 INTERNSHIP (5 MONTHS) FROM NOV. 2026",
-        heroTitle: "MOA & IT Finance",
+        heroTitle: "IT Finance & & Data Engineering",
         contactBtn: "Contact Me",
         cvBtn: "Download CV",
         sections: {
           about: "About",
           projects: "Key Projects",
-          skills: "Technical Dashboard",
+          skills: "Skills Dashboard",
           path: "Career Path",
           certs: "Certifications"
         },
         contact: {
-          subtitle: "Feel free to reach out via my socials or email.",
+          subtitle: "Feel free to reach out to discuss your projects.",
           personalEmail: "Personal Email",
           academicEmail: "Academic Email",
           phone: "Phone",
@@ -58,7 +58,7 @@ export const portfolioData = {
   formation: [
     {
       school: "EFREI – École d'ingénieurs du Numérique",
-      period: "Sept. 2023 - 2028",
+      period: "Sept. 2023 - 2028 (En cours)",
       fr: {
         degree: "Programme Ingénieur du Numérique – Équivalent Master",
         specialization: "IT for Finance (Big Data, Intelligence Artificielle, Mathématiques Appliquées)",
@@ -72,10 +72,10 @@ export const portfolioData = {
     },
     {
       school: "Lycée Albert de Mun",
-      period: "Juin 2023",
+      period: "Juin 2023 & 2022",
       fr: {
         degree: "Baccalauréat STI2D – Mention Bien",
-        details: ["Olympiades de Mathématiques | Lauréat de l’Académie de Paris (Rigueur analytique)", "Mention Bien"]
+        details: ["Olympiades de Mathématiques | Lauréat de l’Académie de Paris (Rigueur analytique)", "Mention Bien au Baccalauréat"]
       },
       en: {
         degree: "STI2D Baccalaureate – Honors",
@@ -111,6 +111,34 @@ export const portfolioData = {
   ],
   projects: [
     {
+      tech: ["Data", "Modélisation", "KPI", "Wi-Fi logs"],
+      link: null,
+      fr: {
+        title: "Next-Gen Airport Challenge (Qatar Innovation) - 2026",
+        description: "Gestion de Projet Data & Modélisation",
+        details: ["Cadrage et élaboration d'une solution d'intelligence unifiant des sources de données complexes (Wi-Fi logs, XOVIS).", "Modélisation de processus et définition de KPIs métier pour identifier les goulots d'étranglement de l'aéroport HIA."]
+      },
+      en: {
+        title: "Next-Gen Airport Challenge (Qatar Innovation) - 2026",
+        description: "Data Project Management & Modeling",
+        details: ["Scoping and development of an intelligence solution unifying complex data sources (Wi-Fi logs, XOVIS).", "Process modeling and definition of business KPIs to identify bottlenecks at HIA airport."]
+      }
+    },
+    {
+      tech: ["Python", "Streamlit", "Conception Produit", "Finance"],
+      link: null,
+      fr: {
+        title: "Plateforme d'Analyse Financière & Boursière - 2025",
+        description: "Conception Produit, Python, Streamlit",
+        details: ["Conception fonctionnelle d'un dashboard d'aide à la décision pour le backtesting d'actifs (Actions, Crypto, Forex).", "Traduction d'exigences métiers complexes en spécifications techniques (calcul de la Value at Risk 95%, prévisions).", "Intégration d'un moteur d'analyse de sentiment (NLP) pour répondre aux besoins d'analyse macro-économique des utilisateurs."]
+      },
+      en: {
+        title: "Financial & Stock Market Analysis Platform - 2025",
+        description: "Product Design, Python, Streamlit",
+        details: ["Functional design of a decision-support dashboard for asset backtesting (Stocks, Crypto, Forex).", "Translation of complex business requirements into technical specifications (calculation of 95% Value at Risk, forecasts).", "Integration of a sentiment analysis engine (NLP) to meet users' macroeconomic analysis needs."]
+      }
+    },
+    {
       tech: ["C11", "Architecture Système", "TCP", "Multi-threadé"],
       link: "https://github.com/afon300/CChat",
       fr: {
@@ -128,7 +156,7 @@ export const portfolioData = {
       tech: ["Python", "Pandas", "Matplotlib", "Seaborn"],
       link: "https://github.com/afon300/stock-market-data-analysis",
       fr: {
-        title: "Analyse de Données Boursières (stock-market-data-analysis)",
+        title: "Analyse de Données Boursières",
         description: "Développement d'un script pour récupérer et traiter des données financières via API.",
         details: ["Récupération via API Yahoo Finance", "Visualisation de la volatilité avec Seaborn", "Modèles statistiques pour identification de corrélations"]
       },
@@ -137,69 +165,26 @@ export const portfolioData = {
         description: "Development of a script to retrieve and process financial data via API.",
         details: ["Retrieval via Yahoo Finance API", "Volatility visualization with Seaborn", "Statistical models for volume correlation identification"]
       }
-    },
-    {
-      tech: ["C"],
-      link: "https://github.com/afon300/projet-C",
-      fr: {
-        title: "projet-C",
-        description: "Développement d'un projet complet en langage C impliquant l'architecture système et la gestion bas niveau.",
-        details: ["Implémentation de structures de données personnalisées et optimisées", "Gestion fine de la mémoire et prévention des fuites (valgrind)", "Application des concepts avancés de la programmation système"]
-      },
-      en: {
-        title: "projet-C",
-        description: "Development of a comprehensive C project involving system architecture and low-level management.",
-        details: ["Implementation of customized and optimized data structures", "Fine-grained memory management and leak prevention (valgrind)", "Application of advanced system programming concepts"]
-      }
-    },
-    {
-      tech: ["Python"],
-      link: "https://github.com/afon300/pychatbot",
-      fr: {
-        title: "pychatbot",
-        description: "Développement d'un agent conversationnel interactif en Python.",
-        details: ["Intégration d'outils de Traitement du Langage Naturel (NLP)", "Création d'un système de règles et de reconnaissance d'intentions", "Conception d'une interface de dialogue fluide et réactive"]
-      },
-      en: {
-        title: "pychatbot",
-        description: "Development of an interactive conversational agent in Python.",
-        details: ["Integration of Natural Language Processing (NLP) tools", "Creation of a rules and intent recognition system", "Design of a smooth and responsive dialogue interface"]
-      }
-    },
-    {
-      tech: ["Python"],
-      link: "https://github.com/afon300/wikipemi",
-      fr: {
-        title: "wikipemi",
-        description: "Script Python pour l'extraction de données et l'automatisation de tâches.",
-        details: ["Création de pipelines d'extraction et de manipulation de données (Scraping)", "Automatisation des processus pour un gain de temps significatif", "Structuration des informations récupérées dans un format exploitable"]
-      },
-      en: {
-        title: "wikipemi",
-        description: "Python script for data extraction and task automation.",
-        details: ["Creation of data extraction and manipulation pipelines (Scraping)", "Process automation for significant time savings", "Structuring retrieved information into a usable format"]
-      }
     }
   ],
   skills: {
     moa: [
-      { name: "Méthodologie Agile (Scrum)", level: 90 },
-      { name: "Modélisation de processus", level: 80 },
+      { name: "Méthodologie Agile (Scrum)", level: 95 },
+      { name: "Modélisation de processus", level: 90 },
       { name: "Recueil de besoins", level: 90 },
-      { name: "Spécifications fonctionnelles", level: 85 }
+      { name: "Spécifications techniques", level: 85 }
     ],
     finance: [
-      { name: "Aide à la décision", level: 80 },
-      { name: "Backtesting", level: 85 },
-      { name: "KPIs analytiques", level: 85 },
-      { name: "Produits financiers", level: 80 },
-      { name: "Value at Risk (VaR)", level: 75 }
+      { name: "Backtesting & KPIs", level: 90 },
+      { name: "Value at Risk (VaR)", level: 85 },
+      { name: "Analyse Macro-économique", level: 80 },
+      { name: "Produits financiers", level: 80 }
     ],
     technique: [
-      { name: "Architectures Systèmes", level: 80 },
+      { name: "Python (Stack PyData)", level: 95 },
       { name: "C/C++", level: 85 },
-      { name: "Python (Stack PyData)", level: 90 },
-      { name: "SQL", level: 85 }
+      { name: "Architectures Systèmes", level: 85 },
+      { name: "SQL & Bases de données", level: 90 }
     ]
   },
   certifications: [
