@@ -10,24 +10,17 @@ body {
   margin: 0;
   min-width: 320px;
   min-height: 100vh;
-  background-color: #020617;
+  background-color: #0b0d10;
+  color: #f3f4f6;
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
 }
 
-/* Custom Utilities */
-@layer utilities {
-  .perspective-1000 {
-    perspective: 1000px;
-  }
-}
-
-/* Custom Animations */
-@keyframes shimmer {
-  0% {
-    transform: translateX(-100%);
-  }
-  100% {
-    transform: translateX(100%);
-  }
+/* Subtle engineering grid background */
+.bg-grid-pattern {
+  background-size: 36px 36px;
+  background-image: 
+    linear-gradient(to right, rgba(255, 255, 255, 0.025) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.025) 1px, transparent 1px);
 }
 
 ::-webkit-scrollbar {
@@ -35,14 +28,14 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-  background: #020617;
+  background: #0b0d10;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #1e293b;
+  background: #222731;
   border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #334155;
+  background: #313846;
 }
